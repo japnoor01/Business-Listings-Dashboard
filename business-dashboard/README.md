@@ -131,7 +131,7 @@ CREATE TABLE listing_master (
 
 ## Challenges Faced
 
-- Ensuring the backend used the correct MySQL credentials and `.env` configuration, while also supporting a fallback to SQLite for local development.
+- Ensuring the backend used the correct MySQL credentials and `.env` configuration, while also supporting a fallback to SQLite for local development..
 - Handling CORS and API connectivity so React could fetch dashboard data reliably from `http://localhost:8000`.
 - Making the frontend and backend start from the correct project directories, especially when using Vite and the FastAPI server together.
 - Generating a complete database dump from JSON and preserving the `id` primary key values for reproducible imports.
