@@ -1,0 +1,5402 @@
+[
+  {
+    "business_name": "Growth Financial Services",
+    "category": "Banking & Finance",
+    "city": "Pune",
+    "address": "207, Hadapsar Market, Pune",
+    "phone": "+91-9181299551",
+    "source": "Sulekha",
+    "created_at": "2025-09-19 18:12:19"
+  },
+  {
+    "business_name": "Vogue Clothing & Fashion",
+    "category": "Clothing & Fashion",
+    "city": "Vadodara",
+    "address": "365, Alkapuri Chowk, Vadodara",
+    "phone": "+91-8475113059",
+    "source": "Justdial",
+    "created_at": "2025-10-22 18:12:19"
+  },
+  {
+    "business_name": "Palace Suites",
+    "category": "Hotel",
+    "city": "Mumbai",
+    "address": "59, Andheri Road, Mumbai",
+    "phone": "+91-8710234096",
+    "source": "TradeIndia",
+    "created_at": "2025-12-31 18:12:19"
+  },
+  {
+    "business_name": "Soft IT Services",
+    "category": "IT Services",
+    "city": "Hyderabad",
+    "address": "619, Ameerpet Plaza, Hyderabad",
+    "phone": "+91-8731033936",
+    "source": "Sulekha",
+    "created_at": "2025-11-15 18:12:19"
+  },
+  {
+    "business_name": "Trust Solutions",
+    "category": "Banking & Finance",
+    "city": "Kolkata",
+    "address": "847, Salt Lake Plaza, Kolkata",
+    "phone": "+91-8424025337",
+    "source": "TradeIndia",
+    "created_at": "2025-05-22 18:12:19"
+  },
+  {
+    "business_name": "Turbo Automobile",
+    "category": "Automobile",
+    "city": "Bangalore",
+    "address": "221, Koramangala Chowk, Bangalore",
+    "phone": "+91-9030563829",
+    "source": "Sulekha",
+    "created_at": "2025-10-30 18:12:19"
+  },
+  {
+    "business_name": "Premier Retreat",
+    "category": "Hotel",
+    "city": "Vadodara",
+    "address": "496, Manjalpur Complex, Vadodara",
+    "phone": "+91-8372725971",
+    "source": "Sulekha",
+    "created_at": "2026-01-17 18:12:19"
+  },
+  {
+    "business_name": "Swift Automobile",
+    "category": "Automobile",
+    "city": "Pune",
+    "address": "707, Baner Plaza, Pune",
+    "phone": "+91-8521032798",
+    "source": "IndiaMart",
+    "created_at": "2025-07-14 18:12:19"
+  },
+  {
+    "business_name": "Design Contractors",
+    "category": "Construction",
+    "city": "Mumbai",
+    "address": "848, Malad Market, Mumbai",
+    "phone": "+91-8634575873",
+    "source": "IndiaMart",
+    "created_at": "2025-05-23 18:12:19"
+  },
+  {
+    "business_name": "Structure Builders",
+    "category": "Construction",
+    "city": "Mumbai",
+    "address": "909, Bandra Avenue, Mumbai",
+    "phone": null,
+    "source": "Justdial",
+    "created_at": "2025-08-15 18:12:19"
+  },
+  {
+    "business_name": "Glam Spa",
+    "category": "Salon & Spa",
+    "city": "Hyderabad",
+    "address": "220, Ameerpet Market, Hyderabad",
+    "phone": "+91-9025183075",
+    "source": "TradeIndia",
+    "created_at": "2026-02-24 18:12:19"
+  },
+  {
+    "business_name": "Ultra Gym",
+    "category": "Gym & Fitness",
+    "city": "Pune",
+    "address": "630, Viman Nagar Marg, Pune",
+    "phone": "+91-8413672652",
+    "source": "IndiaMart",
+    "created_at": "2025-08-29 18:12:19"
+  },
+  {
+    "business_name": "Justice Legal Services",
+    "category": "Legal Services",
+    "city": "Nagpur",
+    "address": "32, Sitabuldi Avenue, Nagpur",
+    "phone": null,
+    "source": "IndiaMart",
+    "created_at": "2025-07-16 18:12:19"
+  },
+  {
+    "business_name": "Pioneer Centre",
+    "category": "Education & Coaching",
+    "city": "Lucknow",
+    "address": "771, Alambagh Street, Lucknow",
+    "phone": null,
+    "source": "IndiaMart",
+    "created_at": "2026-04-15 18:12:19"
+  },
+  {
+    "business_name": "Create Construction",
+    "category": "Construction",
+    "city": "Kanpur",
+    "address": "779, Arya Nagar Nagar, Kanpur",
+    "phone": "+91-8305881648",
+    "source": "TradeIndia",
+    "created_at": "2025-09-16 18:12:19"
+  },
+  {
+    "business_name": "Vision Builders",
+    "category": "Real Estate",
+    "city": "Jaipur",
+    "address": "216, C-Scheme Colony, Jaipur",
+    "phone": "+91-8255609440",
+    "source": "Justdial",
+    "created_at": "2025-10-31 18:12:19"
+  },
+  {
+    "business_name": "Capital Banking & Finance",
+    "category": "Banking & Finance",
+    "city": "Bhopal",
+    "address": "988, Arera Colony Avenue, Bhopal",
+    "phone": "+91-9760640294",
+    "source": "Justdial",
+    "created_at": "2026-03-14 18:12:19"
+  },
+  {
+    "business_name": "Executive Retreat",
+    "category": "Hotel",
+    "city": "Surat",
+    "address": "220, Ring Road Chowk, Surat",
+    "phone": "+91-9059959269",
+    "source": "Justdial",
+    "created_at": "2026-01-21 18:12:19"
+  },
+  {
+    "business_name": "Bright Centre",
+    "category": "Education & Coaching",
+    "city": "Ludhiana",
+    "address": "865, Pakhowal Road Complex, Ludhiana",
+    "phone": "+91-9007164524",
+    "source": "Google Maps",
+    "created_at": "2025-09-14 18:12:19"
+  },
+  {
+    "business_name": "Wealth Solutions",
+    "category": "Banking & Finance",
+    "city": "Indore",
+    "address": "740, MG Road Road, Indore",
+    "phone": "+91-9629766685",
+    "source": "Google Maps",
+    "created_at": "2025-09-10 18:12:19"
+  },
+  {
+    "business_name": "Success Education & Coaching",
+    "category": "Education & Coaching",
+    "city": "Jaipur",
+    "address": "598, Vaishali Nagar Avenue, Jaipur",
+    "phone": "+91-9971040600",
+    "source": "Google Maps",
+    "created_at": "2025-07-13 18:12:19"
+  },
+  {
+    "business_name": "Interior Furniture",
+    "category": "Home Decor",
+    "city": "Patna",
+    "address": "758, Patliputra Complex, Patna",
+    "phone": null,
+    "source": "Google Maps",
+    "created_at": "2025-05-25 18:12:19"
+  },
+  {
+    "business_name": "Scholar Education & Coaching",
+    "category": "Education & Coaching",
+    "city": "Agra",
+    "address": "744, Kamla Nagar Colony, Agra",
+    "phone": "+91-8101173917",
+    "source": "IndiaMart",
+    "created_at": "2026-01-24 18:12:19"
+  },
+  {
+    "business_name": "Body Gym & Fitness",
+    "category": "Gym & Fitness",
+    "city": "Patna",
+    "address": "172, Kankarbagh Marg, Patna",
+    "phone": "+91-8001530280",
+    "source": "Justdial",
+    "created_at": "2025-06-08 18:12:19"
+  },
+  {
+    "business_name": "Journey Holidays",
+    "category": "Travel & Tours",
+    "city": "Surat",
+    "address": "195, Ring Road Complex, Surat",
+    "phone": null,
+    "source": "Justdial",
+    "created_at": "2025-10-02 18:12:19"
+  },
+  {
+    "business_name": "City Residency",
+    "category": "Hotel",
+    "city": "Bhopal",
+    "address": "777, Kolar Road Market, Bhopal",
+    "phone": "+91-7862240294",
+    "source": "Justdial",
+    "created_at": "2025-06-10 18:12:19"
+  },
+  {
+    "business_name": "Build Construction",
+    "category": "Construction",
+    "city": "Chennai",
+    "address": "767, Chromepet Marg, Chennai",
+    "phone": "+91-8727594302",
+    "source": "TradeIndia",
+    "created_at": "2025-08-15 18:12:19"
+  },
+  {
+    "business_name": "Capital Solutions",
+    "category": "Banking & Finance",
+    "city": "Bhopal",
+    "address": "81, Bairagarh Colony, Bhopal",
+    "phone": "+91-7785793985",
+    "source": "Justdial",
+    "created_at": "2025-12-06 18:12:19"
+  },
+  {
+    "business_name": "Global Real Estate",
+    "category": "Real Estate",
+    "city": "Ahmedabad",
+    "address": "948, Bopal Bazaar, Ahmedabad",
+    "phone": "+91-9506393835",
+    "source": "Google Maps",
+    "created_at": "2026-01-18 18:12:19"
+  },
+  {
+    "business_name": "Turbo Workshop",
+    "category": "Automobile",
+    "city": "Agra",
+    "address": "258, Civil Lines Bazaar, Agra",
+    "phone": "+91-8199585570",
+    "source": "IndiaMart",
+    "created_at": "2025-06-16 18:12:19"
+  },
+  {
+    "business_name": "Vogue Garments",
+    "category": "Clothing & Fashion",
+    "city": "Hyderabad",
+    "address": "636, Gachibowli Lane, Hyderabad",
+    "phone": "+91-9456829065",
+    "source": "TradeIndia",
+    "created_at": "2026-02-21 18:12:19"
+  },
+  {
+    "business_name": "Century Estates",
+    "category": "Real Estate",
+    "city": "Mumbai",
+    "address": "884, Malad Marg, Mumbai",
+    "phone": null,
+    "source": "Justdial",
+    "created_at": "2025-08-13 18:12:19"
+  },
+  {
+    "business_name": "Style Garments",
+    "category": "Clothing & Fashion",
+    "city": "Indore",
+    "address": "558, New Palasia Colony, Indore",
+    "phone": "+91-8134352427",
+    "source": "Google Maps",
+    "created_at": "2025-09-30 18:12:19"
+  },
+  {
+    "business_name": "Profit Banking & Finance",
+    "category": "Banking & Finance",
+    "city": "Chennai",
+    "address": "307, T. Nagar Road, Chennai",
+    "phone": null,
+    "source": "Google Maps",
+    "created_at": "2025-06-17 18:12:19"
+  },
+  {
+    "business_name": "Future Coaching",
+    "category": "Education & Coaching",
+    "city": "Mumbai",
+    "address": "793, Worli Road, Mumbai",
+    "phone": "+91-8157039150",
+    "source": "Sulekha",
+    "created_at": "2025-10-12 18:12:19"
+  },
+  {
+    "business_name": "Fund Financial Services",
+    "category": "Banking & Finance",
+    "city": "Kanpur",
+    "address": "741, Civil Lines Avenue, Kanpur",
+    "phone": "+91-8172945865",
+    "source": "Sulekha",
+    "created_at": "2025-09-02 18:12:19"
+  },
+  {
+    "business_name": "Dream Tours",
+    "category": "Travel & Tours",
+    "city": "Mumbai",
+    "address": "884, Bandra Chowk, Mumbai",
+    "phone": "+91-9749399402",
+    "source": "TradeIndia",
+    "created_at": "2026-02-24 18:12:19"
+  },
+  {
+    "business_name": "Sunrise Medical",
+    "category": "Hospital",
+    "city": "Delhi",
+    "address": "859, Dwarka Chowk, Delhi",
+    "phone": "+91-9967960747",
+    "source": "Google Maps",
+    "created_at": "2026-01-06 18:12:19"
+  },
+  {
+    "business_name": "Classic Clothing",
+    "category": "Clothing & Fashion",
+    "city": "Delhi",
+    "address": "658, Saket Complex, Delhi",
+    "phone": "+91-7978205910",
+    "source": "Justdial",
+    "created_at": "2025-09-14 18:12:19"
+  },
+  {
+    "business_name": "Power Electronics",
+    "category": "Electronics",
+    "city": "Bhopal",
+    "address": "72, Arera Colony Bazaar, Bhopal",
+    "phone": "+91-9066701568",
+    "source": "Google Maps",
+    "created_at": "2026-04-16 18:12:19"
+  },
+  {
+    "business_name": "Motor Workshop",
+    "category": "Automobile",
+    "city": "Mumbai",
+    "address": "991, Andheri Lane, Mumbai",
+    "phone": "+91-8708050381",
+    "source": "Justdial",
+    "created_at": "2025-10-01 18:12:19"
+  },
+  {
+    "business_name": "Life Pharmacy",
+    "category": "Pharmacy",
+    "city": "Vadodara",
+    "address": "673, Fatehganj Nagar, Vadodara",
+    "phone": "+91-7034398973",
+    "source": "Sulekha",
+    "created_at": "2025-10-31 18:12:19"
+  },
+  {
+    "business_name": "Stay Retreat",
+    "category": "Hotel",
+    "city": "Ludhiana",
+    "address": "442, Ferozepur Road Chowk, Ludhiana",
+    "phone": "+91-9602667999",
+    "source": "Justdial",
+    "created_at": "2025-08-17 18:12:19"
+  },
+  {
+    "business_name": "City Hospital",
+    "category": "Hospital",
+    "city": "Surat",
+    "address": "265, Katargam Market, Surat",
+    "phone": "+91-8250797863",
+    "source": "TradeIndia",
+    "created_at": "2026-01-28 18:12:19"
+  },
+  {
+    "business_name": "Executive Hotel",
+    "category": "Hotel",
+    "city": "Mumbai",
+    "address": "171, Juhu Nagar, Mumbai",
+    "phone": "+91-9203308799",
+    "source": "Justdial",
+    "created_at": "2025-08-27 18:12:19"
+  },
+  {
+    "business_name": "Life Pharmacy",
+    "category": "Pharmacy",
+    "city": "Hyderabad",
+    "address": "967, Madhapur Lane, Hyderabad",
+    "phone": "+91-8503378773",
+    "source": "TradeIndia",
+    "created_at": "2025-07-09 18:12:19"
+  },
+  {
+    "business_name": "Well Medical Store",
+    "category": "Pharmacy",
+    "city": "Nagpur",
+    "address": "912, Dharampeth Colony, Nagpur",
+    "phone": "+91-8753015993",
+    "source": "Sulekha",
+    "created_at": "2025-05-07 18:12:19"
+  },
+  {
+    "business_name": "Care Pharmacy",
+    "category": "Pharmacy",
+    "city": "Vadodara",
+    "address": "704, Alkapuri Complex, Vadodara",
+    "phone": null,
+    "source": "Sulekha",
+    "created_at": "2026-02-15 18:12:19"
+  },
+  {
+    "business_name": "Plan Construction",
+    "category": "Construction",
+    "city": "Nagpur",
+    "address": "626, Wardha Road Marg, Nagpur",
+    "phone": "+91-8255594914",
+    "source": "Google Maps",
+    "created_at": "2025-05-22 18:12:19"
+  },
+  {
+    "business_name": "Tech Systems",
+    "category": "IT Services",
+    "city": "Visakhapatnam",
+    "address": "306, Rushikonda Chowk, Visakhapatnam",
+    "phone": "+91-8378726854",
+    "source": "Sulekha",
+    "created_at": "2026-04-09 18:12:19"
+  },
+  {
+    "business_name": "Select Grocery",
+    "category": "Grocery",
+    "city": "Indore",
+    "address": "905, Vijay Nagar Marg, Indore",
+    "phone": "+91-7080812406",
+    "source": "Justdial",
+    "created_at": "2025-08-30 18:12:19"
+  },
+  {
+    "business_name": "Fab Boutique",
+    "category": "Clothing & Fashion",
+    "city": "Patna",
+    "address": "467, Patliputra Marg, Patna",
+    "phone": "+91-8402478689",
+    "source": "IndiaMart",
+    "created_at": "2025-06-27 18:12:19"
+  },
+  {
+    "business_name": "Sys IT Services",
+    "category": "IT Services",
+    "city": "Kolkata",
+    "address": "40, Ballygunge Avenue, Kolkata",
+    "phone": "+91-8706002819",
+    "source": "Google Maps",
+    "created_at": "2025-07-15 18:12:19"
+  },
+  {
+    "business_name": "Comfort Guest House",
+    "category": "Hotel",
+    "city": "Patna",
+    "address": "655, Boring Road Road, Patna",
+    "phone": "+91-7983754355",
+    "source": "Sulekha",
+    "created_at": "2025-07-19 18:12:19"
+  },
+  {
+    "business_name": "Dream Events",
+    "category": "Event Management",
+    "city": "Lucknow",
+    "address": "976, Aliganj Plaza, Lucknow",
+    "phone": "+91-8383945039",
+    "source": "Google Maps",
+    "created_at": "2025-09-28 18:12:19"
+  },
+  {
+    "business_name": "Gear Auto Works",
+    "category": "Automobile",
+    "city": "Jaipur",
+    "address": "481, Malviya Nagar Colony, Jaipur",
+    "phone": "+91-8224040855",
+    "source": "Justdial",
+    "created_at": "2026-01-27 18:12:19"
+  },
+  {
+    "business_name": "Golden Grill",
+    "category": "Restaurant",
+    "city": "Vadodara",
+    "address": "519, Karelibaug Complex, Vadodara",
+    "phone": "+91-8173041227",
+    "source": "Sulekha",
+    "created_at": "2025-10-28 18:12:19"
+  },
+  {
+    "business_name": "Sys Consulting",
+    "category": "IT Services",
+    "city": "Ludhiana",
+    "address": "441, BRS Nagar Plaza, Ludhiana",
+    "phone": "+91-8305655843",
+    "source": "Google Maps",
+    "created_at": "2026-04-14 18:12:19"
+  },
+  {
+    "business_name": "Classic Jewellery",
+    "category": "Jewellery",
+    "city": "Bangalore",
+    "address": "192, JP Nagar Nagar, Bangalore",
+    "phone": "+91-9963487369",
+    "source": "Justdial",
+    "created_at": "2025-08-24 18:12:19"
+  },
+  {
+    "business_name": "Tech Consulting",
+    "category": "IT Services",
+    "city": "Delhi",
+    "address": "62, Karol Bagh Plaza, Delhi",
+    "phone": "+91-8550904295",
+    "source": "Google Maps",
+    "created_at": "2025-08-12 18:12:19"
+  },
+  {
+    "business_name": "National Hospital",
+    "category": "Hospital",
+    "city": "Mumbai",
+    "address": "175, Malad Complex, Mumbai",
+    "phone": null,
+    "source": "Google Maps",
+    "created_at": "2025-09-14 18:12:19"
+  },
+  {
+    "business_name": "Metro Projects",
+    "category": "Construction",
+    "city": "Agra",
+    "address": "921, Sadar Nagar, Agra",
+    "phone": "+91-7006014505",
+    "source": "Google Maps",
+    "created_at": "2026-04-07 18:12:19"
+  },
+  {
+    "business_name": "Sunrise Hospital",
+    "category": "Hospital",
+    "city": "Pune",
+    "address": "560, Viman Nagar Bazaar, Pune",
+    "phone": "+91-9254366676",
+    "source": "Google Maps",
+    "created_at": "2025-11-21 18:12:19"
+  },
+  {
+    "business_name": "Elite Real Estate",
+    "category": "Real Estate",
+    "city": "Ahmedabad",
+    "address": "957, SG Highway Chowk, Ahmedabad",
+    "phone": null,
+    "source": "Google Maps",
+    "created_at": "2026-02-08 18:12:19"
+  },
+  {
+    "business_name": "Festive Events",
+    "category": "Event Management",
+    "city": "Indore",
+    "address": "814, Vijay Nagar Road, Indore",
+    "phone": "+91-7048194188",
+    "source": "TradeIndia",
+    "created_at": "2026-01-31 18:12:19"
+  },
+  {
+    "business_name": "Max Fitness Centre",
+    "category": "Gym & Fitness",
+    "city": "Agra",
+    "address": "964, Belanganj Street, Agra",
+    "phone": "+91-8249559329",
+    "source": "Sulekha",
+    "created_at": "2025-06-26 18:12:19"
+  },
+  {
+    "business_name": "Super Mart",
+    "category": "Grocery",
+    "city": "Nagpur",
+    "address": "1, Dharampeth Avenue, Nagpur",
+    "phone": "+91-8632096121",
+    "source": "Sulekha",
+    "created_at": "2025-10-13 18:12:19"
+  },
+  {
+    "business_name": "Charter Legal Services",
+    "category": "Legal Services",
+    "city": "Indore",
+    "address": "699, Scheme 54 Road, Indore",
+    "phone": null,
+    "source": "IndiaMart",
+    "created_at": "2026-01-29 18:12:19"
+  },
+  {
+    "business_name": "Chic Clothing & Fashion",
+    "category": "Clothing & Fashion",
+    "city": "Kanpur",
+    "address": "395, Kakadeo Nagar, Kanpur",
+    "phone": "+91-8562244583",
+    "source": "Google Maps",
+    "created_at": "2026-02-25 18:12:19"
+  },
+  {
+    "business_name": "Create Projects",
+    "category": "Construction",
+    "city": "Kolkata",
+    "address": "122, Dum Dum Lane, Kolkata",
+    "phone": "+91-8717531237",
+    "source": "TradeIndia",
+    "created_at": "2025-10-29 18:12:19"
+  },
+  {
+    "business_name": "Masala Restaurant",
+    "category": "Restaurant",
+    "city": "Hyderabad",
+    "address": "894, Ameerpet Market, Hyderabad",
+    "phone": "+91-7768549026",
+    "source": "Sulekha",
+    "created_at": "2025-11-17 18:12:19"
+  },
+  {
+    "business_name": "Finance Investments",
+    "category": "Banking & Finance",
+    "city": "Jaipur",
+    "address": "68, Mansarovar Road, Jaipur",
+    "phone": "+91-7099100787",
+    "source": "TradeIndia",
+    "created_at": "2025-05-25 18:12:19"
+  },
+  {
+    "business_name": "Rights Law Firm",
+    "category": "Legal Services",
+    "city": "Hyderabad",
+    "address": "27, Jubilee Hills Nagar, Hyderabad",
+    "phone": "+91-7006325448",
+    "source": "TradeIndia",
+    "created_at": "2025-05-12 18:12:19"
+  },
+  {
+    "business_name": "Gem Gems",
+    "category": "Jewellery",
+    "city": "Surat",
+    "address": "345, Ring Road Plaza, Surat",
+    "phone": null,
+    "source": "Sulekha",
+    "created_at": "2025-05-25 18:12:19"
+  },
+  {
+    "business_name": "Strong Sports Club",
+    "category": "Gym & Fitness",
+    "city": "Hyderabad",
+    "address": "934, Madhapur Avenue, Hyderabad",
+    "phone": "+91-9193067561",
+    "source": "TradeIndia",
+    "created_at": "2025-07-25 18:12:19"
+  },
+  {
+    "business_name": "Cozy Design Studio",
+    "category": "Home Decor",
+    "city": "Hyderabad",
+    "address": "523, Ameerpet Market, Hyderabad",
+    "phone": "+91-8856455646",
+    "source": "Google Maps",
+    "created_at": "2025-05-08 18:12:19"
+  },
+  {
+    "business_name": "Life Clinic",
+    "category": "Hospital",
+    "city": "Mumbai",
+    "address": "317, Juhu Plaza, Mumbai",
+    "phone": "+91-8761320396",
+    "source": "TradeIndia",
+    "created_at": "2026-01-28 18:12:19"
+  },
+  {
+    "business_name": "Well Chemist",
+    "category": "Pharmacy",
+    "city": "Ludhiana",
+    "address": "914, Model Town Nagar, Ludhiana",
+    "phone": "+91-9308548380",
+    "source": "IndiaMart",
+    "created_at": "2026-02-13 18:12:19"
+  },
+  {
+    "business_name": "Premier Events",
+    "category": "Event Management",
+    "city": "Delhi",
+    "address": "506, Karol Bagh Nagar, Delhi",
+    "phone": "+91-9665658714",
+    "source": "IndiaMart",
+    "created_at": "2025-09-07 18:12:19"
+  },
+  {
+    "business_name": "Classic Living",
+    "category": "Home Decor",
+    "city": "Hyderabad",
+    "address": "794, Hitech City Lane, Hyderabad",
+    "phone": null,
+    "source": "TradeIndia",
+    "created_at": "2025-05-28 18:12:19"
+  },
+  {
+    "business_name": "Justice Legal Services",
+    "category": "Legal Services",
+    "city": "Chennai",
+    "address": "120, Perambur Plaza, Chennai",
+    "phone": "+91-8282719275",
+    "source": "Justdial",
+    "created_at": "2025-09-23 18:12:19"
+  },
+  {
+    "business_name": "Prime Grocery",
+    "category": "Grocery",
+    "city": "Hyderabad",
+    "address": "141, Ameerpet Plaza, Hyderabad",
+    "phone": "+91-9798058225",
+    "source": "TradeIndia",
+    "created_at": "2026-03-20 18:12:19"
+  },
+  {
+    "business_name": "Glow Beauty Studio",
+    "category": "Salon & Spa",
+    "city": "Jaipur",
+    "address": "265, MI Road Road, Jaipur",
+    "phone": "+91-8602147736",
+    "source": "Justdial",
+    "created_at": "2026-01-30 18:12:19"
+  },
+  {
+    "business_name": "Tour Expeditions",
+    "category": "Travel & Tours",
+    "city": "Bhopal",
+    "address": "891, Arera Colony Complex, Bhopal",
+    "phone": "+91-7850824559",
+    "source": "Google Maps",
+    "created_at": "2025-08-23 18:12:19"
+  },
+  {
+    "business_name": "Trust Banking & Finance",
+    "category": "Banking & Finance",
+    "city": "Bangalore",
+    "address": "421, Koramangala Market, Bangalore",
+    "phone": "+91-8570235652",
+    "source": "TradeIndia",
+    "created_at": "2025-12-16 18:12:19"
+  },
+  {
+    "business_name": "Glam Salon & Spa",
+    "category": "Salon & Spa",
+    "city": "Ahmedabad",
+    "address": "334, Vastrapur Colony, Ahmedabad",
+    "phone": "+91-8876699009",
+    "source": "TradeIndia",
+    "created_at": "2026-03-07 18:12:19"
+  },
+  {
+    "business_name": "Data Systems",
+    "category": "IT Services",
+    "city": "Hyderabad",
+    "address": "833, Jubilee Hills Colony, Hyderabad",
+    "phone": "+91-8843858393",
+    "source": "Sulekha",
+    "created_at": "2025-06-17 18:12:19"
+  },
+  {
+    "business_name": "Bright School",
+    "category": "Education & Coaching",
+    "city": "Surat",
+    "address": "724, Adajan Market, Surat",
+    "phone": null,
+    "source": "TradeIndia",
+    "created_at": "2026-03-31 18:12:19"
+  },
+  {
+    "business_name": "Paradise Restaurant",
+    "category": "Restaurant",
+    "city": "Bhopal",
+    "address": "931, Ayodhya Nagar Plaza, Bhopal",
+    "phone": null,
+    "source": "Sulekha",
+    "created_at": "2025-09-07 18:12:19"
+  },
+  {
+    "business_name": "Fab Clothing",
+    "category": "Clothing & Fashion",
+    "city": "Nagpur",
+    "address": "208, Amravati Road Nagar, Nagpur",
+    "phone": "+91-8595022226",
+    "source": "Google Maps",
+    "created_at": "2025-10-02 18:12:19"
+  },
+  {
+    "business_name": "Construct Construction",
+    "category": "Construction",
+    "city": "Agra",
+    "address": "653, Sadar Bazaar, Agra",
+    "phone": "+91-9753247621",
+    "source": "Sulekha",
+    "created_at": "2026-03-05 18:12:19"
+  },
+  {
+    "business_name": "Living Design Studio",
+    "category": "Home Decor",
+    "city": "Lucknow",
+    "address": "889, Alambagh Colony, Lucknow",
+    "phone": "+91-9043894080",
+    "source": "Sulekha",
+    "created_at": "2025-10-31 18:12:19"
+  },
+  {
+    "business_name": "Park Inn",
+    "category": "Hotel",
+    "city": "Chennai",
+    "address": "106, T. Nagar Lane, Chennai",
+    "phone": "+91-7789607021",
+    "source": "IndiaMart",
+    "created_at": "2026-04-19 18:12:19"
+  },
+  {
+    "business_name": "Horizon Estates",
+    "category": "Real Estate",
+    "city": "Ahmedabad",
+    "address": "387, SG Highway Bazaar, Ahmedabad",
+    "phone": "+91-8274927151",
+    "source": "Justdial",
+    "created_at": "2025-10-29 18:12:19"
+  },
+  {
+    "business_name": "Arch Infrastructure",
+    "category": "Construction",
+    "city": "Patna",
+    "address": "374, Boring Road Street, Patna",
+    "phone": "+91-9584430885",
+    "source": "TradeIndia",
+    "created_at": "2025-10-07 18:12:19"
+  },
+  {
+    "business_name": "Style Furnishings",
+    "category": "Home Decor",
+    "city": "Delhi",
+    "address": "859, Lajpat Nagar Market, Delhi",
+    "phone": "+91-9483329347",
+    "source": "Sulekha",
+    "created_at": "2025-05-30 18:12:19"
+  },
+  {
+    "business_name": "Cloud IT Services",
+    "category": "IT Services",
+    "city": "Pune",
+    "address": "453, Kothrud Plaza, Pune",
+    "phone": null,
+    "source": "IndiaMart",
+    "created_at": "2025-12-09 18:12:19"
+  },
+  {
+    "business_name": "Wealth Banking & Finance",
+    "category": "Banking & Finance",
+    "city": "Agra",
+    "address": "237, Civil Lines Chowk, Agra",
+    "phone": "+91-7922888359",
+    "source": "Google Maps",
+    "created_at": "2026-03-15 18:12:19"
+  },
+  {
+    "business_name": "Journey Travel & Tours",
+    "category": "Travel & Tours",
+    "city": "Jaipur",
+    "address": "901, C-Scheme Street, Jaipur",
+    "phone": "+91-9513453264",
+    "source": "TradeIndia",
+    "created_at": "2025-08-19 18:12:19"
+  },
+  {
+    "business_name": "Maharaja Corner",
+    "category": "Restaurant",
+    "city": "Ahmedabad",
+    "address": "14, SG Highway Road, Ahmedabad",
+    "phone": "+91-7981424258",
+    "source": "IndiaMart",
+    "created_at": "2025-11-10 18:12:19"
+  },
+  {
+    "business_name": "Event Management",
+    "category": "Event Management",
+    "city": "Ahmedabad",
+    "address": "987, CG Road Complex, Ahmedabad",
+    "phone": null,
+    "source": "Sulekha",
+    "created_at": "2026-04-07 18:12:19"
+  },
+  {
+    "business_name": "Crown Guest House",
+    "category": "Hotel",
+    "city": "Surat",
+    "address": "711, Adajan Nagar, Surat",
+    "phone": "+91-9443560664",
+    "source": "Justdial",
+    "created_at": "2026-02-22 18:12:19"
+  },
+  {
+    "business_name": "Green Mart",
+    "category": "Grocery",
+    "city": "Visakhapatnam",
+    "address": "377, Rushikonda Chowk, Visakhapatnam",
+    "phone": "+91-8662940689",
+    "source": "Justdial",
+    "created_at": "2026-01-04 18:12:19"
+  },
+  {
+    "business_name": "Comfort Hotel",
+    "category": "Hotel",
+    "city": "Agra",
+    "address": "569, Belanganj Nagar, Agra",
+    "phone": null,
+    "source": "TradeIndia",
+    "created_at": "2025-07-16 18:12:19"
+  },
+  {
+    "business_name": "Premier Inn",
+    "category": "Hotel",
+    "city": "Surat",
+    "address": "150, Katargam Colony, Surat",
+    "phone": "+91-9788690688",
+    "source": "Sulekha",
+    "created_at": "2025-06-02 18:12:19"
+  },
+  {
+    "business_name": "Build Engineers",
+    "category": "Construction",
+    "city": "Ludhiana",
+    "address": "332, Ferozepur Road Lane, Ludhiana",
+    "phone": "+91-8180284663",
+    "source": "Sulekha",
+    "created_at": "2025-07-30 18:12:19"
+  },
+  {
+    "business_name": "Growth Finance",
+    "category": "Banking & Finance",
+    "city": "Delhi",
+    "address": "40, Rohini Lane, Delhi",
+    "phone": "+91-9136871080",
+    "source": "TradeIndia",
+    "created_at": "2026-04-19 18:12:19"
+  },
+  {
+    "business_name": "Grand Organizers",
+    "category": "Event Management",
+    "city": "Patna",
+    "address": "592, Kankarbagh Plaza, Patna",
+    "phone": "+91-8550972746",
+    "source": "Sulekha",
+    "created_at": "2026-02-21 18:12:19"
+  },
+  {
+    "business_name": "Vogue Garments",
+    "category": "Clothing & Fashion",
+    "city": "Bhopal",
+    "address": "62, Arera Colony Market, Bhopal",
+    "phone": "+91-9520460198",
+    "source": "IndiaMart",
+    "created_at": "2025-12-01 18:12:19"
+  },
+  {
+    "business_name": "Care Hospital",
+    "category": "Hospital",
+    "city": "Surat",
+    "address": "42, Athwa Chowk, Surat",
+    "phone": "+91-7072188069",
+    "source": "Sulekha",
+    "created_at": "2026-03-04 18:12:19"
+  },
+  {
+    "business_name": "Park Hotel",
+    "category": "Hotel",
+    "city": "Kolkata",
+    "address": "105, Gariahat Avenue, Kolkata",
+    "phone": "+91-8602290912",
+    "source": "TradeIndia",
+    "created_at": "2025-11-02 18:12:19"
+  },
+  {
+    "business_name": "Classic Jewellers",
+    "category": "Jewellery",
+    "city": "Jaipur",
+    "address": "651, MI Road Road, Jaipur",
+    "phone": "+91-9716018860",
+    "source": "Justdial",
+    "created_at": "2026-03-04 18:12:19"
+  },
+  {
+    "business_name": "Strong Fitness Centre",
+    "category": "Gym & Fitness",
+    "city": "Lucknow",
+    "address": "634, Indira Nagar Market, Lucknow",
+    "phone": null,
+    "source": "Sulekha",
+    "created_at": "2025-07-15 18:12:19"
+  },
+  {
+    "business_name": "Metro Construction",
+    "category": "Construction",
+    "city": "Kanpur",
+    "address": "243, Civil Lines Road, Kanpur",
+    "phone": "+91-9470897601",
+    "source": "Google Maps",
+    "created_at": "2025-05-28 18:12:19"
+  },
+  {
+    "business_name": "Studio Spa",
+    "category": "Salon & Spa",
+    "city": "Indore",
+    "address": "316, MG Road Lane, Indore",
+    "phone": "+91-8519968479",
+    "source": "Google Maps",
+    "created_at": "2025-05-25 18:12:19"
+  },
+  {
+    "business_name": "Royal Jewellery",
+    "category": "Jewellery",
+    "city": "Pune",
+    "address": "970, Baner Chowk, Pune",
+    "phone": "+91-9237752745",
+    "source": "TradeIndia",
+    "created_at": "2025-06-16 18:12:19"
+  },
+  {
+    "business_name": "Future Academy",
+    "category": "Education & Coaching",
+    "city": "Indore",
+    "address": "961, MG Road Nagar, Indore",
+    "phone": "+91-8995340950",
+    "source": "Google Maps",
+    "created_at": "2026-02-16 18:12:19"
+  },
+  {
+    "business_name": "Premier Resort",
+    "category": "Hotel",
+    "city": "Lucknow",
+    "address": "112, Gomti Nagar Colony, Lucknow",
+    "phone": "+91-9903848761",
+    "source": "Google Maps",
+    "created_at": "2026-03-16 18:12:19"
+  },
+  {
+    "business_name": "Life Hospital",
+    "category": "Hospital",
+    "city": "Bhopal",
+    "address": "178, Bairagarh Avenue, Bhopal",
+    "phone": "+91-8233701471",
+    "source": "Sulekha",
+    "created_at": "2025-07-25 18:12:19"
+  },
+  {
+    "business_name": "Fund Banking & Finance",
+    "category": "Banking & Finance",
+    "city": "Bhopal",
+    "address": "736, Kolar Road Complex, Bhopal",
+    "phone": null,
+    "source": "Justdial",
+    "created_at": "2025-05-29 18:12:19"
+  },
+  {
+    "business_name": "Grand Resort",
+    "category": "Hotel",
+    "city": "Ahmedabad",
+    "address": "537, Navrangpura Road, Ahmedabad",
+    "phone": "+91-9165576006",
+    "source": "TradeIndia",
+    "created_at": "2025-06-19 18:12:19"
+  },
+  {
+    "business_name": "City Healthcare",
+    "category": "Hospital",
+    "city": "Visakhapatnam",
+    "address": "677, Steel Plant Area Marg, Visakhapatnam",
+    "phone": "+91-9696752923",
+    "source": "Sulekha",
+    "created_at": "2025-07-27 18:12:19"
+  },
+  {
+    "business_name": "Stay Hotel",
+    "category": "Hotel",
+    "city": "Jaipur",
+    "address": "440, Jagatpura Bazaar, Jaipur",
+    "phone": "+91-9324484136",
+    "source": "Google Maps",
+    "created_at": "2026-04-20 18:12:19"
+  },
+  {
+    "business_name": "Century Builders",
+    "category": "Real Estate",
+    "city": "Vadodara",
+    "address": "446, Alkapuri Street, Vadodara",
+    "phone": "+91-7743663009",
+    "source": "TradeIndia",
+    "created_at": "2025-10-28 18:12:19"
+  },
+  {
+    "business_name": "Mega Provisions",
+    "category": "Grocery",
+    "city": "Nagpur",
+    "address": "949, Dharampeth Chowk, Nagpur",
+    "phone": null,
+    "source": "TradeIndia",
+    "created_at": "2025-05-09 18:12:19"
+  },
+  {
+    "business_name": "Classic Living",
+    "category": "Home Decor",
+    "city": "Ludhiana",
+    "address": "954, BRS Nagar Lane, Ludhiana",
+    "phone": "+91-8039976967",
+    "source": "Sulekha",
+    "created_at": "2026-01-20 18:12:19"
+  },
+  {
+    "business_name": "Elite Occasions",
+    "category": "Event Management",
+    "city": "Vadodara",
+    "address": "469, Vadsar Marg, Vadodara",
+    "phone": "+91-9271730835",
+    "source": "IndiaMart",
+    "created_at": "2025-10-15 18:12:19"
+  },
+  {
+    "business_name": "Build Projects",
+    "category": "Construction",
+    "city": "Hyderabad",
+    "address": "651, Madhapur Colony, Hyderabad",
+    "phone": "+91-9002074273",
+    "source": "Sulekha",
+    "created_at": "2025-06-08 18:12:19"
+  },
+  {
+    "business_name": "Sys IT Services",
+    "category": "IT Services",
+    "city": "Jaipur",
+    "address": "500, Vaishali Nagar Colony, Jaipur",
+    "phone": "+91-9790448524",
+    "source": "TradeIndia",
+    "created_at": "2025-11-26 18:12:19"
+  },
+  {
+    "business_name": "Max Gym",
+    "category": "Gym & Fitness",
+    "city": "Bhopal",
+    "address": "164, Kolar Road Market, Bhopal",
+    "phone": "+91-9844240087",
+    "source": "Sulekha",
+    "created_at": "2025-08-23 18:12:19"
+  },
+  {
+    "business_name": "Flex Gym & Fitness",
+    "category": "Gym & Fitness",
+    "city": "Kanpur",
+    "address": "932, Arya Nagar Road, Kanpur",
+    "phone": "+91-8485128301",
+    "source": "Google Maps",
+    "created_at": "2026-03-15 18:12:19"
+  },
+  {
+    "business_name": "Super Store",
+    "category": "Grocery",
+    "city": "Bhopal",
+    "address": "81, Arera Colony Street, Bhopal",
+    "phone": "+91-8867205368",
+    "source": "Google Maps",
+    "created_at": "2025-05-22 18:12:19"
+  },
+  {
+    "business_name": "Event Event Management",
+    "category": "Event Management",
+    "city": "Agra",
+    "address": "949, Kamla Nagar Market, Agra",
+    "phone": "+91-9400176446",
+    "source": "Google Maps",
+    "created_at": "2025-09-02 18:12:19"
+  },
+  {
+    "business_name": "Vision Properties",
+    "category": "Real Estate",
+    "city": "Hyderabad",
+    "address": "848, Jubilee Hills Market, Hyderabad",
+    "phone": "+91-7947041772",
+    "source": "Justdial",
+    "created_at": "2025-09-05 18:12:19"
+  },
+  {
+    "business_name": "Daily Store",
+    "category": "Grocery",
+    "city": "Patna",
+    "address": "190, Fraser Road Plaza, Patna",
+    "phone": "+91-9932446472",
+    "source": "Justdial",
+    "created_at": "2025-08-01 18:12:19"
+  },
+  {
+    "business_name": "Flex Gym",
+    "category": "Gym & Fitness",
+    "city": "Agra",
+    "address": "538, Belanganj Colony, Agra",
+    "phone": "+91-9569328576",
+    "source": "Google Maps",
+    "created_at": "2026-02-15 18:12:19"
+  },
+  {
+    "business_name": "Grand Residency",
+    "category": "Hotel",
+    "city": "Visakhapatnam",
+    "address": "441, Steel Plant Area Road, Visakhapatnam",
+    "phone": null,
+    "source": "Justdial",
+    "created_at": "2026-02-03 18:12:19"
+  },
+  {
+    "business_name": "Design Design Studio",
+    "category": "Home Decor",
+    "city": "Kolkata",
+    "address": "641, Howrah Colony, Kolkata",
+    "phone": "+91-9184940355",
+    "source": "TradeIndia",
+    "created_at": "2025-07-08 18:12:19"
+  },
+  {
+    "business_name": "Premier Occasions",
+    "category": "Event Management",
+    "city": "Lucknow",
+    "address": "507, Aliganj Lane, Lucknow",
+    "phone": "+91-9807922158",
+    "source": "Justdial",
+    "created_at": "2025-10-02 18:12:19"
+  },
+  {
+    "business_name": "Elite Unisex Salon",
+    "category": "Salon & Spa",
+    "city": "Surat",
+    "address": "528, Ring Road Bazaar, Surat",
+    "phone": "+91-8279699384",
+    "source": "Sulekha",
+    "created_at": "2025-09-11 18:12:19"
+  },
+  {
+    "business_name": "Modern Living",
+    "category": "Home Decor",
+    "city": "Vadodara",
+    "address": "301, Manjalpur Avenue, Vadodara",
+    "phone": "+91-8441735055",
+    "source": "Sulekha",
+    "created_at": "2025-05-18 18:12:19"
+  },
+  {
+    "business_name": "Globe Travel & Tours",
+    "category": "Travel & Tours",
+    "city": "Vadodara",
+    "address": "742, Fatehganj Lane, Vadodara",
+    "phone": "+91-8612697873",
+    "source": "IndiaMart",
+    "created_at": "2025-08-09 18:12:19"
+  },
+  {
+    "business_name": "Classic Ornaments",
+    "category": "Jewellery",
+    "city": "Hyderabad",
+    "address": "765, Banjara Hills Avenue, Hyderabad",
+    "phone": "+91-8639566729",
+    "source": "IndiaMart",
+    "created_at": "2026-03-19 18:12:19"
+  },
+  {
+    "business_name": "Nova Electronics",
+    "category": "Electronics",
+    "city": "Kanpur",
+    "address": "999, Kakadeo Colony, Kanpur",
+    "phone": "+91-8618647615",
+    "source": "Justdial",
+    "created_at": "2026-04-21 18:12:19"
+  },
+  {
+    "business_name": "Metro Engineers",
+    "category": "Construction",
+    "city": "Bhopal",
+    "address": "83, Bairagarh Lane, Bhopal",
+    "phone": "+91-7895689589",
+    "source": "Sulekha",
+    "created_at": "2025-05-08 18:12:19"
+  },
+  {
+    "business_name": "Dream Tours",
+    "category": "Travel & Tours",
+    "city": "Surat",
+    "address": "421, Athwa Road, Surat",
+    "phone": "+91-9340268016",
+    "source": "Google Maps",
+    "created_at": "2026-04-19 18:12:19"
+  },
+  {
+    "business_name": "Create Builders",
+    "category": "Construction",
+    "city": "Bangalore",
+    "address": "376, Marathahalli Marg, Bangalore",
+    "phone": "+91-8490620541",
+    "source": "Sulekha",
+    "created_at": "2025-06-08 18:12:19"
+  },
+  {
+    "business_name": "Max Workout Zone",
+    "category": "Gym & Fitness",
+    "city": "Patna",
+    "address": "758, Kankarbagh Lane, Patna",
+    "phone": "+91-9229496133",
+    "source": "TradeIndia",
+    "created_at": "2025-12-03 18:12:19"
+  },
+  {
+    "business_name": "Care Pharmacy",
+    "category": "Pharmacy",
+    "city": "Ludhiana",
+    "address": "894, Dugri Complex, Ludhiana",
+    "phone": "+91-9222263224",
+    "source": "Google Maps",
+    "created_at": "2025-11-28 18:12:19"
+  },
+  {
+    "business_name": "Money Banking & Finance",
+    "category": "Banking & Finance",
+    "city": "Surat",
+    "address": "846, Athwa Road, Surat",
+    "phone": "+91-9800922029",
+    "source": "Justdial",
+    "created_at": "2025-05-04 18:12:19"
+  },
+  {
+    "business_name": "Ace Education & Coaching",
+    "category": "Education & Coaching",
+    "city": "Pune",
+    "address": "833, Wakad Chowk, Pune",
+    "phone": "+91-9132904189",
+    "source": "TradeIndia",
+    "created_at": "2025-08-12 18:12:19"
+  },
+  {
+    "business_name": "Star Event Management",
+    "category": "Event Management",
+    "city": "Patna",
+    "address": "205, Patliputra Bazaar, Patna",
+    "phone": "+91-9701030579",
+    "source": "TradeIndia",
+    "created_at": "2025-09-03 18:12:19"
+  },
+  {
+    "business_name": "Modern Furnishings",
+    "category": "Home Decor",
+    "city": "Bhopal",
+    "address": "177, Kolar Road Road, Bhopal",
+    "phone": "+91-7993043346",
+    "source": "Sulekha",
+    "created_at": "2026-02-24 18:12:19"
+  },
+  {
+    "business_name": "Sure Pharmacy",
+    "category": "Pharmacy",
+    "city": "Ludhiana",
+    "address": "655, BRS Nagar Complex, Ludhiana",
+    "phone": "+91-8602734109",
+    "source": "Sulekha",
+    "created_at": "2026-04-26 18:12:19"
+  },
+  {
+    "business_name": "Vision Housing",
+    "category": "Real Estate",
+    "city": "Patna",
+    "address": "255, Kankarbagh Chowk, Patna",
+    "phone": "+91-7735855022",
+    "source": "Justdial",
+    "created_at": "2025-11-08 18:12:19"
+  },
+  {
+    "business_name": "Pixel Zone",
+    "category": "Electronics",
+    "city": "Bhopal",
+    "address": "811, Kolar Road Street, Bhopal",
+    "phone": "+91-9065396731",
+    "source": "TradeIndia",
+    "created_at": "2026-03-19 18:12:19"
+  },
+  {
+    "business_name": "Asset Finance",
+    "category": "Banking & Finance",
+    "city": "Pune",
+    "address": "224, Hinjewadi Bazaar, Pune",
+    "phone": "+91-9556384074",
+    "source": "TradeIndia",
+    "created_at": "2026-02-21 18:12:19"
+  },
+  {
+    "business_name": "Global Realty",
+    "category": "Real Estate",
+    "city": "Jaipur",
+    "address": "141, Mansarovar Avenue, Jaipur",
+    "phone": "+91-8970710513",
+    "source": "Sulekha",
+    "created_at": "2025-08-26 18:12:19"
+  },
+  {
+    "business_name": "Sunrise Medical",
+    "category": "Hospital",
+    "city": "Jaipur",
+    "address": "845, Vaishali Nagar Market, Jaipur",
+    "phone": "+91-9020141921",
+    "source": "Google Maps",
+    "created_at": "2025-12-29 18:12:19"
+  },
+  {
+    "business_name": "Counsel Advocates",
+    "category": "Legal Services",
+    "city": "Kolkata",
+    "address": "327, Salt Lake Market, Kolkata",
+    "phone": "+91-9878119404",
+    "source": "Sulekha",
+    "created_at": "2026-04-15 18:12:19"
+  },
+  {
+    "business_name": "Cyber Software",
+    "category": "IT Services",
+    "city": "Visakhapatnam",
+    "address": "393, Dwaraka Nagar Street, Visakhapatnam",
+    "phone": "+91-9853910959",
+    "source": "Sulekha",
+    "created_at": "2025-09-10 18:12:19"
+  },
+  {
+    "business_name": "Royal Inn",
+    "category": "Hotel",
+    "city": "Surat",
+    "address": "197, Ring Road Marg, Surat",
+    "phone": "+91-8125444343",
+    "source": "TradeIndia",
+    "created_at": "2026-01-03 18:12:19"
+  },
+  {
+    "business_name": "Data Solutions",
+    "category": "IT Services",
+    "city": "Vadodara",
+    "address": "440, Alkapuri Chowk, Vadodara",
+    "phone": "+91-8079880585",
+    "source": "Sulekha",
+    "created_at": "2026-01-11 18:12:19"
+  },
+  {
+    "business_name": "Cloud IT Services",
+    "category": "IT Services",
+    "city": "Ahmedabad",
+    "address": "221, SG Highway Road, Ahmedabad",
+    "phone": "+91-7720005776",
+    "source": "Google Maps",
+    "created_at": "2025-05-30 18:12:19"
+  },
+  {
+    "business_name": "Growth Banking & Finance",
+    "category": "Banking & Finance",
+    "city": "Jaipur",
+    "address": "783, Jagatpura Nagar, Jaipur",
+    "phone": "+91-9031016892",
+    "source": "IndiaMart",
+    "created_at": "2025-06-29 18:12:19"
+  },
+  {
+    "business_name": "Construct Construction",
+    "category": "Construction",
+    "city": "Bangalore",
+    "address": "960, Koramangala Bazaar, Bangalore",
+    "phone": "+91-9327466501",
+    "source": "IndiaMart",
+    "created_at": "2025-07-16 18:12:19"
+  },
+  {
+    "business_name": "Body Gym & Fitness",
+    "category": "Gym & Fitness",
+    "city": "Chennai",
+    "address": "930, Perambur Market, Chennai",
+    "phone": "+91-7751233396",
+    "source": "Justdial",
+    "created_at": "2025-09-13 18:12:19"
+  },
+  {
+    "business_name": "Code Software",
+    "category": "IT Services",
+    "city": "Patna",
+    "address": "784, Patliputra Marg, Patna",
+    "phone": "+91-9182311694",
+    "source": "Justdial",
+    "created_at": "2026-02-23 18:12:19"
+  },
+  {
+    "business_name": "Glam Unisex Salon",
+    "category": "Salon & Spa",
+    "city": "Vadodara",
+    "address": "720, Fatehganj Marg, Vadodara",
+    "phone": "+91-8964955546",
+    "source": "TradeIndia",
+    "created_at": "2025-09-09 18:12:19"
+  },
+  {
+    "business_name": "Comfort Hotel",
+    "category": "Hotel",
+    "city": "Kolkata",
+    "address": "165, Salt Lake Lane, Kolkata",
+    "phone": "+91-9256427499",
+    "source": "Google Maps",
+    "created_at": "2025-07-25 18:12:19"
+  },
+  {
+    "business_name": "Mega Kirana",
+    "category": "Grocery",
+    "city": "Jaipur",
+    "address": "68, MI Road Road, Jaipur",
+    "phone": "+91-8290145865",
+    "source": "Justdial",
+    "created_at": "2026-04-25 18:12:19"
+  },
+  {
+    "business_name": "Build Infrastructure",
+    "category": "Construction",
+    "city": "Chennai",
+    "address": "480, Nungambakkam Chowk, Chennai",
+    "phone": "+91-8593042550",
+    "source": "TradeIndia",
+    "created_at": "2025-09-03 18:12:19"
+  },
+  {
+    "business_name": "Health Medical Store",
+    "category": "Pharmacy",
+    "city": "Ahmedabad",
+    "address": "995, SG Highway Marg, Ahmedabad",
+    "phone": "+91-8932144829",
+    "source": "TradeIndia",
+    "created_at": "2025-08-11 18:12:19"
+  },
+  {
+    "business_name": "Mega Electronics",
+    "category": "Electronics",
+    "city": "Pune",
+    "address": "22, Koregaon Park Avenue, Pune",
+    "phone": "+91-8881462957",
+    "source": "IndiaMart",
+    "created_at": "2025-07-12 18:12:19"
+  },
+  {
+    "business_name": "Premier Organizers",
+    "category": "Event Management",
+    "city": "Ludhiana",
+    "address": "601, Dugri Colony, Ludhiana",
+    "phone": "+91-9218757754",
+    "source": "Justdial",
+    "created_at": "2025-09-06 18:12:19"
+  },
+  {
+    "business_name": "Turbo Automobile",
+    "category": "Automobile",
+    "city": "Nagpur",
+    "address": "31, Dharampeth Market, Nagpur",
+    "phone": "+91-9189734390",
+    "source": "Google Maps",
+    "created_at": "2025-05-27 18:12:19"
+  },
+  {
+    "business_name": "Saffron Dhaba",
+    "category": "Restaurant",
+    "city": "Bangalore",
+    "address": "536, Indiranagar Marg, Bangalore",
+    "phone": "+91-9918274438",
+    "source": "TradeIndia",
+    "created_at": "2025-07-09 18:12:19"
+  },
+  {
+    "business_name": "Global Real Estate",
+    "category": "Real Estate",
+    "city": "Bangalore",
+    "address": "154, HSR Layout Chowk, Bangalore",
+    "phone": null,
+    "source": "Sulekha",
+    "created_at": "2025-05-16 18:12:19"
+  },
+  {
+    "business_name": "Global Real Estate",
+    "category": "Real Estate",
+    "city": "Indore",
+    "address": "23, Vijay Nagar Bazaar, Indore",
+    "phone": "+91-9656677684",
+    "source": "Sulekha",
+    "created_at": "2025-08-03 18:12:19"
+  },
+  {
+    "business_name": "Metro Hospital",
+    "category": "Hospital",
+    "city": "Bhopal",
+    "address": "89, Ayodhya Nagar Marg, Bhopal",
+    "phone": "+91-9741981283",
+    "source": "Sulekha",
+    "created_at": "2025-10-07 18:12:19"
+  },
+  {
+    "business_name": "Family Market",
+    "category": "Grocery",
+    "city": "Nagpur",
+    "address": "104, Sadar Road, Nagpur",
+    "phone": "+91-8912897955",
+    "source": "TradeIndia",
+    "created_at": "2025-11-10 18:12:19"
+  },
+  {
+    "business_name": "Elite Real Estate",
+    "category": "Real Estate",
+    "city": "Bangalore",
+    "address": "627, Marathahalli Nagar, Bangalore",
+    "phone": "+91-8595311761",
+    "source": "Justdial",
+    "created_at": "2025-11-22 18:12:19"
+  },
+  {
+    "business_name": "Prime Hospital",
+    "category": "Hospital",
+    "city": "Vadodara",
+    "address": "270, Karelibaug Complex, Vadodara",
+    "phone": "+91-9499085184",
+    "source": "TradeIndia",
+    "created_at": "2026-02-20 18:12:19"
+  },
+  {
+    "business_name": "Nova World",
+    "category": "Electronics",
+    "city": "Nagpur",
+    "address": "437, Dharampeth Market, Nagpur",
+    "phone": "+91-8427712509",
+    "source": "Justdial",
+    "created_at": "2025-05-16 18:12:19"
+  },
+  {
+    "business_name": "Body Gym & Fitness",
+    "category": "Gym & Fitness",
+    "city": "Nagpur",
+    "address": "740, Amravati Road Street, Nagpur",
+    "phone": "+91-8638708649",
+    "source": "Google Maps",
+    "created_at": "2025-12-29 18:12:19"
+  },
+  {
+    "business_name": "Saffron Restaurant",
+    "category": "Restaurant",
+    "city": "Delhi",
+    "address": "489, Nehru Place Colony, Delhi",
+    "phone": "+91-8815020356",
+    "source": "Justdial",
+    "created_at": "2026-01-05 18:12:19"
+  },
+  {
+    "business_name": "Apollo Hospital",
+    "category": "Hospital",
+    "city": "Bhopal",
+    "address": "221, Ayodhya Nagar Road, Bhopal",
+    "phone": "+91-9118827192",
+    "source": "Google Maps",
+    "created_at": "2025-06-29 18:12:19"
+  },
+  {
+    "business_name": "Select Store",
+    "category": "Grocery",
+    "city": "Indore",
+    "address": "802, MG Road Road, Indore",
+    "phone": "+91-9085230136",
+    "source": "TradeIndia",
+    "created_at": "2025-08-31 18:12:19"
+  },
+  {
+    "business_name": "Well Drug Store",
+    "category": "Pharmacy",
+    "city": "Patna",
+    "address": "565, Fraser Road Lane, Patna",
+    "phone": "+91-9094449726",
+    "source": "Sulekha",
+    "created_at": "2025-09-29 18:12:19"
+  },
+  {
+    "business_name": "Design Construction",
+    "category": "Construction",
+    "city": "Patna",
+    "address": "931, Patliputra Complex, Patna",
+    "phone": "+91-9598794489",
+    "source": "Google Maps",
+    "created_at": "2025-07-16 18:12:19"
+  },
+  {
+    "business_name": "Urban Construction",
+    "category": "Construction",
+    "city": "Hyderabad",
+    "address": "27, Banjara Hills Lane, Hyderabad",
+    "phone": "+91-9506917405",
+    "source": "TradeIndia",
+    "created_at": "2025-09-01 18:12:19"
+  },
+  {
+    "business_name": "Mode Fashion House",
+    "category": "Clothing & Fashion",
+    "city": "Mumbai",
+    "address": "899, Juhu Avenue, Mumbai",
+    "phone": "+91-9030471433",
+    "source": "Sulekha",
+    "created_at": "2025-05-13 18:12:19"
+  },
+  {
+    "business_name": "Gem Jewels",
+    "category": "Jewellery",
+    "city": "Indore",
+    "address": "493, Scheme 54 Bazaar, Indore",
+    "phone": "+91-8699895023",
+    "source": "Sulekha",
+    "created_at": "2025-10-07 18:12:19"
+  },
+  {
+    "business_name": "Masala Restaurant",
+    "category": "Restaurant",
+    "city": "Bangalore",
+    "address": "389, Marathahalli Nagar, Bangalore",
+    "phone": "+91-8152925208",
+    "source": "TradeIndia",
+    "created_at": "2026-02-15 18:12:19"
+  },
+  {
+    "business_name": "Bright School",
+    "category": "Education & Coaching",
+    "city": "Hyderabad",
+    "address": "653, Ameerpet Colony, Hyderabad",
+    "phone": "+91-8526141394",
+    "source": "Google Maps",
+    "created_at": "2026-03-01 18:12:19"
+  },
+  {
+    "business_name": "Chic Salon & Spa",
+    "category": "Salon & Spa",
+    "city": "Chennai",
+    "address": "475, Anna Nagar Nagar, Chennai",
+    "phone": "+91-8629565354",
+    "source": "Google Maps",
+    "created_at": "2025-09-15 18:12:19"
+  },
+  {
+    "business_name": "Choice Bazaar",
+    "category": "Grocery",
+    "city": "Ahmedabad",
+    "address": "439, Vastrapur Colony, Ahmedabad",
+    "phone": "+91-8415038078",
+    "source": "Google Maps",
+    "created_at": "2025-09-20 18:12:19"
+  },
+  {
+    "business_name": "Wander Adventures",
+    "category": "Travel & Tours",
+    "city": "Vadodara",
+    "address": "681, Gotri Road, Vadodara",
+    "phone": "+91-8477033319",
+    "source": "Google Maps",
+    "created_at": "2025-08-31 18:12:19"
+  },
+  {
+    "business_name": "Ethnic Boutique",
+    "category": "Clothing & Fashion",
+    "city": "Kolkata",
+    "address": "846, Dum Dum Chowk, Kolkata",
+    "phone": "+91-8103550951",
+    "source": "Google Maps",
+    "created_at": "2025-06-17 18:12:19"
+  },
+  {
+    "business_name": "Paradise Restaurant",
+    "category": "Restaurant",
+    "city": "Kanpur",
+    "address": "189, Arya Nagar Avenue, Kanpur",
+    "phone": "+91-7942668746",
+    "source": "TradeIndia",
+    "created_at": "2025-10-01 18:12:19"
+  },
+  {
+    "business_name": "Modern Furnishings",
+    "category": "Home Decor",
+    "city": "Kanpur",
+    "address": "246, Civil Lines Lane, Kanpur",
+    "phone": "+91-7728675137",
+    "source": "IndiaMart",
+    "created_at": "2025-09-15 18:12:19"
+  },
+  {
+    "business_name": "Royal Grill",
+    "category": "Restaurant",
+    "city": "Agra",
+    "address": "105, Civil Lines Chowk, Agra",
+    "phone": "+91-9634255937",
+    "source": "IndiaMart",
+    "created_at": "2025-07-29 18:12:19"
+  },
+  {
+    "business_name": "Horizon Developers",
+    "category": "Real Estate",
+    "city": "Bhopal",
+    "address": "793, Kolar Road Street, Bhopal",
+    "phone": "+91-9500879970",
+    "source": "Justdial",
+    "created_at": "2026-01-20 18:12:19"
+  },
+  {
+    "business_name": "Circuit Point",
+    "category": "Electronics",
+    "city": "Bangalore",
+    "address": "367, Marathahalli Plaza, Bangalore",
+    "phone": "+91-9700458288",
+    "source": "Google Maps",
+    "created_at": "2025-07-20 18:12:19"
+  },
+  {
+    "business_name": "Construct Contractors",
+    "category": "Construction",
+    "city": "Jaipur",
+    "address": "702, Mansarovar Colony, Jaipur",
+    "phone": null,
+    "source": "Justdial",
+    "created_at": "2025-11-15 18:12:19"
+  },
+  {
+    "business_name": "Dream Developers",
+    "category": "Real Estate",
+    "city": "Lucknow",
+    "address": "464, Alambagh Plaza, Lucknow",
+    "phone": "+91-8333016680",
+    "source": "Google Maps",
+    "created_at": "2025-11-14 18:12:19"
+  },
+  {
+    "business_name": "Family Superstore",
+    "category": "Grocery",
+    "city": "Nagpur",
+    "address": "934, Amravati Road Colony, Nagpur",
+    "phone": "+91-8540297598",
+    "source": "IndiaMart",
+    "created_at": "2025-11-04 18:12:19"
+  },
+  {
+    "business_name": "Ace Education & Coaching",
+    "category": "Education & Coaching",
+    "city": "Pune",
+    "address": "999, Hinjewadi Street, Pune",
+    "phone": "+91-8434201834",
+    "source": "Justdial",
+    "created_at": "2026-04-19 18:12:19"
+  },
+  {
+    "business_name": "Power Health Club",
+    "category": "Gym & Fitness",
+    "city": "Delhi",
+    "address": "620, Karol Bagh Street, Delhi",
+    "phone": "+91-8643816494",
+    "source": "Sulekha",
+    "created_at": "2026-01-02 18:12:19"
+  },
+  {
+    "business_name": "Luxe Hair Studio",
+    "category": "Salon & Spa",
+    "city": "Surat",
+    "address": "810, Piplod Market, Surat",
+    "phone": "+91-9126356641",
+    "source": "Google Maps",
+    "created_at": "2025-10-07 18:12:19"
+  },
+  {
+    "business_name": "Saffron Dhaba",
+    "category": "Restaurant",
+    "city": "Delhi",
+    "address": "472, Karol Bagh Lane, Delhi",
+    "phone": "+91-9532961800",
+    "source": "Sulekha",
+    "created_at": "2025-12-13 18:12:19"
+  },
+  {
+    "business_name": "Luxe Beauty Studio",
+    "category": "Salon & Spa",
+    "city": "Chennai",
+    "address": "398, OMR Avenue, Chennai",
+    "phone": "+91-8843536672",
+    "source": "TradeIndia",
+    "created_at": "2025-11-18 18:12:19"
+  },
+  {
+    "business_name": "Trend Clothing",
+    "category": "Clothing & Fashion",
+    "city": "Vadodara",
+    "address": "461, Gotri Plaza, Vadodara",
+    "phone": "+91-7923833896",
+    "source": "Google Maps",
+    "created_at": "2026-04-17 18:12:19"
+  },
+  {
+    "business_name": "Glow Beauty Studio",
+    "category": "Salon & Spa",
+    "city": "Visakhapatnam",
+    "address": "58, Dwaraka Nagar Road, Visakhapatnam",
+    "phone": null,
+    "source": "TradeIndia",
+    "created_at": "2025-07-20 18:12:19"
+  },
+  {
+    "business_name": "Mega Zone",
+    "category": "Electronics",
+    "city": "Lucknow",
+    "address": "545, Hazratganj Marg, Lucknow",
+    "phone": "+91-7989426128",
+    "source": "TradeIndia",
+    "created_at": "2026-01-31 18:12:19"
+  },
+  {
+    "business_name": "Family Grocery",
+    "category": "Grocery",
+    "city": "Vadodara",
+    "address": "410, Fatehganj Nagar, Vadodara",
+    "phone": "+91-7948062608",
+    "source": "IndiaMart",
+    "created_at": "2025-05-30 18:12:19"
+  },
+  {
+    "business_name": "Body Workout Zone",
+    "category": "Gym & Fitness",
+    "city": "Agra",
+    "address": "843, Belanganj Lane, Agra",
+    "phone": "+91-8526650595",
+    "source": "Sulekha",
+    "created_at": "2025-12-22 18:12:19"
+  },
+  {
+    "business_name": "Info Solutions",
+    "category": "IT Services",
+    "city": "Nagpur",
+    "address": "219, Sitabuldi Road, Nagpur",
+    "phone": "+91-8231505506",
+    "source": "Google Maps",
+    "created_at": "2026-03-28 18:12:19"
+  },
+  {
+    "business_name": "Saffron Dhaba",
+    "category": "Restaurant",
+    "city": "Patna",
+    "address": "631, Patliputra Bazaar, Patna",
+    "phone": "+91-8305166702",
+    "source": "Justdial",
+    "created_at": "2025-07-10 18:12:19"
+  },
+  {
+    "business_name": "Style Store",
+    "category": "Clothing & Fashion",
+    "city": "Indore",
+    "address": "54, MG Road Street, Indore",
+    "phone": "+91-8133746915",
+    "source": "Google Maps",
+    "created_at": "2026-04-13 18:12:19"
+  },
+  {
+    "business_name": "Royal Jewellery",
+    "category": "Jewellery",
+    "city": "Bangalore",
+    "address": "672, HSR Layout Road, Bangalore",
+    "phone": "+91-9426957491",
+    "source": "Sulekha",
+    "created_at": "2025-07-15 18:12:19"
+  },
+  {
+    "business_name": "Super Store",
+    "category": "Grocery",
+    "city": "Patna",
+    "address": "874, Rajendra Nagar Complex, Patna",
+    "phone": "+91-9832233658",
+    "source": "Google Maps",
+    "created_at": "2025-10-03 18:12:19"
+  },
+  {
+    "business_name": "Net Solutions",
+    "category": "IT Services",
+    "city": "Bhopal",
+    "address": "581, Arera Colony Avenue, Bhopal",
+    "phone": "+91-7789959306",
+    "source": "TradeIndia",
+    "created_at": "2026-03-18 18:12:19"
+  },
+  {
+    "business_name": "Holiday Vacations",
+    "category": "Travel & Tours",
+    "city": "Lucknow",
+    "address": "564, Hazratganj Bazaar, Lucknow",
+    "phone": "+91-8002236115",
+    "source": "TradeIndia",
+    "created_at": "2026-03-26 18:12:19"
+  },
+  {
+    "business_name": "Executive Hotel",
+    "category": "Hotel",
+    "city": "Pune",
+    "address": "297, Hadapsar Plaza, Pune",
+    "phone": "+91-8691790295",
+    "source": "Google Maps",
+    "created_at": "2026-03-13 18:12:19"
+  },
+  {
+    "business_name": "Crown Builders",
+    "category": "Real Estate",
+    "city": "Ahmedabad",
+    "address": "172, Maninagar Plaza, Ahmedabad",
+    "phone": "+91-8168305424",
+    "source": "Google Maps",
+    "created_at": "2026-05-01 18:12:19"
+  },
+  {
+    "business_name": "Care Pharmacy",
+    "category": "Pharmacy",
+    "city": "Ludhiana",
+    "address": "623, Dugri Marg, Ludhiana",
+    "phone": "+91-9992125343",
+    "source": "TradeIndia",
+    "created_at": "2026-02-11 18:12:19"
+  },
+  {
+    "business_name": "Looks Salon",
+    "category": "Salon & Spa",
+    "city": "Patna",
+    "address": "399, Rajendra Nagar Complex, Patna",
+    "phone": "+91-8973888296",
+    "source": "TradeIndia",
+    "created_at": "2025-06-21 18:12:19"
+  },
+  {
+    "business_name": "Tech Services",
+    "category": "IT Services",
+    "city": "Agra",
+    "address": "648, Sikandra Nagar, Agra",
+    "phone": "+91-9332932430",
+    "source": "Justdial",
+    "created_at": "2025-09-16 18:12:19"
+  },
+  {
+    "business_name": "Nova World",
+    "category": "Electronics",
+    "city": "Kanpur",
+    "address": "539, Kidwai Nagar Plaza, Kanpur",
+    "phone": "+91-9853890938",
+    "source": "Sulekha",
+    "created_at": "2025-12-22 18:12:19"
+  },
+  {
+    "business_name": "Digital Electronics",
+    "category": "Electronics",
+    "city": "Lucknow",
+    "address": "96, Alambagh Plaza, Lucknow",
+    "phone": "+91-9649580159",
+    "source": "Sulekha",
+    "created_at": "2025-10-25 18:12:19"
+  },
+  {
+    "business_name": "Premier Residency",
+    "category": "Hotel",
+    "city": "Nagpur",
+    "address": "745, Dharampeth Complex, Nagpur",
+    "phone": "+91-9483606836",
+    "source": "TradeIndia",
+    "created_at": "2026-03-16 18:12:19"
+  },
+  {
+    "business_name": "Wander Expeditions",
+    "category": "Travel & Tours",
+    "city": "Chennai",
+    "address": "686, Adyar Nagar, Chennai",
+    "phone": "+91-8375663074",
+    "source": "Sulekha",
+    "created_at": "2025-11-03 18:12:19"
+  },
+  {
+    "business_name": "Net Infotech",
+    "category": "IT Services",
+    "city": "Surat",
+    "address": "624, Ring Road Nagar, Surat",
+    "phone": null,
+    "source": "Justdial",
+    "created_at": "2025-05-30 18:12:19"
+  },
+  {
+    "business_name": "Elite Real Estate",
+    "category": "Real Estate",
+    "city": "Surat",
+    "address": "488, Katargam Road, Surat",
+    "phone": "+91-8580526427",
+    "source": "Sulekha",
+    "created_at": "2025-11-18 18:12:19"
+  },
+  {
+    "business_name": "Sunrise Clinic",
+    "category": "Hospital",
+    "city": "Ludhiana",
+    "address": "998, Pakhowal Road Road, Ludhiana",
+    "phone": "+91-8566822326",
+    "source": "Justdial",
+    "created_at": "2026-04-08 18:12:19"
+  },
+  {
+    "business_name": "Metro Contractors",
+    "category": "Construction",
+    "city": "Lucknow",
+    "address": "692, Indira Nagar Complex, Lucknow",
+    "phone": "+91-8328240766",
+    "source": "IndiaMart",
+    "created_at": "2025-11-27 18:12:19"
+  },
+  {
+    "business_name": "Structure Construction",
+    "category": "Construction",
+    "city": "Bangalore",
+    "address": "742, Yelahanka Nagar, Bangalore",
+    "phone": null,
+    "source": "Sulekha",
+    "created_at": "2026-01-21 18:12:19"
+  },
+  {
+    "business_name": "Modern Service Centre",
+    "category": "Automobile",
+    "city": "Kolkata",
+    "address": "423, Salt Lake Street, Kolkata",
+    "phone": "+91-8162332454",
+    "source": "Google Maps",
+    "created_at": "2025-12-19 18:12:19"
+  },
+  {
+    "business_name": "Lexis Legal Services",
+    "category": "Legal Services",
+    "city": "Patna",
+    "address": "641, Rajendra Nagar Plaza, Patna",
+    "phone": "+91-9360694760",
+    "source": "Sulekha",
+    "created_at": "2025-09-18 18:12:19"
+  },
+  {
+    "business_name": "Explore Tours",
+    "category": "Travel & Tours",
+    "city": "Nagpur",
+    "address": "466, Amravati Road Chowk, Nagpur",
+    "phone": null,
+    "source": "Justdial",
+    "created_at": "2025-07-04 18:12:19"
+  },
+  {
+    "business_name": "Mentor Academy",
+    "category": "Education & Coaching",
+    "city": "Kanpur",
+    "address": "821, Civil Lines Street, Kanpur",
+    "phone": "+91-9197483239",
+    "source": "Sulekha",
+    "created_at": "2025-10-24 18:12:19"
+  },
+  {
+    "business_name": "Urban Construction",
+    "category": "Construction",
+    "city": "Nagpur",
+    "address": "106, Amravati Road Street, Nagpur",
+    "phone": "+91-8490152191",
+    "source": "Google Maps",
+    "created_at": "2025-09-29 18:12:19"
+  },
+  {
+    "business_name": "Lexis Legal Services",
+    "category": "Legal Services",
+    "city": "Pune",
+    "address": "998, Baner Colony, Pune",
+    "phone": "+91-7753894370",
+    "source": "Google Maps",
+    "created_at": "2026-01-19 18:12:19"
+  },
+  {
+    "business_name": "Info IT Services",
+    "category": "IT Services",
+    "city": "Bangalore",
+    "address": "222, HSR Layout Lane, Bangalore",
+    "phone": "+91-8100676130",
+    "source": "TradeIndia",
+    "created_at": "2025-05-16 18:12:19"
+  },
+  {
+    "business_name": "Trend Wear",
+    "category": "Clothing & Fashion",
+    "city": "Nagpur",
+    "address": "415, Dharampeth Chowk, Nagpur",
+    "phone": "+91-8770778775",
+    "source": "Sulekha",
+    "created_at": "2025-11-20 18:12:19"
+  },
+  {
+    "business_name": "Alpha Fitness Studio",
+    "category": "Gym & Fitness",
+    "city": "Mumbai",
+    "address": "380, Bandra Avenue, Mumbai",
+    "phone": "+91-9116832437",
+    "source": "TradeIndia",
+    "created_at": "2025-05-17 18:12:19"
+  },
+  {
+    "business_name": "Strong Gym & Fitness",
+    "category": "Gym & Fitness",
+    "city": "Bangalore",
+    "address": "580, Whitefield Lane, Bangalore",
+    "phone": "+91-9235999477",
+    "source": "IndiaMart",
+    "created_at": "2025-10-10 18:12:19"
+  },
+  {
+    "business_name": "Classic Service Centre",
+    "category": "Automobile",
+    "city": "Bhopal",
+    "address": "801, MP Nagar Street, Bhopal",
+    "phone": null,
+    "source": "Google Maps",
+    "created_at": "2026-03-09 18:12:19"
+  },
+  {
+    "business_name": "Giga Store",
+    "category": "Electronics",
+    "city": "Agra",
+    "address": "238, Kamla Nagar Plaza, Agra",
+    "phone": "+91-8252625426",
+    "source": "Justdial",
+    "created_at": "2026-02-01 18:12:19"
+  },
+  {
+    "business_name": "Gold Gems",
+    "category": "Jewellery",
+    "city": "Visakhapatnam",
+    "address": "861, Gajuwaka Market, Visakhapatnam",
+    "phone": "+91-9863006080",
+    "source": "TradeIndia",
+    "created_at": "2025-07-18 18:12:19"
+  },
+  {
+    "business_name": "Grace Medical Centre",
+    "category": "Hospital",
+    "city": "Delhi",
+    "address": "937, Nehru Place Avenue, Delhi",
+    "phone": "+91-9908669555",
+    "source": "Sulekha",
+    "created_at": "2026-01-01 18:12:19"
+  },
+  {
+    "business_name": "Dream Infrastructure",
+    "category": "Real Estate",
+    "city": "Surat",
+    "address": "227, Adajan Road, Surat",
+    "phone": "+91-9432811220",
+    "source": "Google Maps",
+    "created_at": "2025-12-12 18:12:19"
+  },
+  {
+    "business_name": "Dapper Store",
+    "category": "Clothing & Fashion",
+    "city": "Chennai",
+    "address": "333, Adyar Bazaar, Chennai",
+    "phone": null,
+    "source": "IndiaMart",
+    "created_at": "2025-10-05 18:12:19"
+  },
+  {
+    "business_name": "Travel Vacations",
+    "category": "Travel & Tours",
+    "city": "Bangalore",
+    "address": "895, Yelahanka Lane, Bangalore",
+    "phone": "+91-7707720442",
+    "source": "TradeIndia",
+    "created_at": "2025-08-26 18:12:19"
+  },
+  {
+    "business_name": "Build Construction",
+    "category": "Construction",
+    "city": "Agra",
+    "address": "125, Civil Lines Market, Agra",
+    "phone": "+91-8051818941",
+    "source": "IndiaMart",
+    "created_at": "2026-03-21 18:12:19"
+  },
+  {
+    "business_name": "Looks Beauty Parlour",
+    "category": "Salon & Spa",
+    "city": "Patna",
+    "address": "661, Rajendra Nagar Road, Patna",
+    "phone": "+91-9029083361",
+    "source": "Sulekha",
+    "created_at": "2025-07-14 18:12:19"
+  },
+  {
+    "business_name": "Golden Restaurant",
+    "category": "Restaurant",
+    "city": "Bangalore",
+    "address": "441, Whitefield Street, Bangalore",
+    "phone": "+91-9130497085",
+    "source": "Google Maps",
+    "created_at": "2025-10-01 18:12:19"
+  },
+  {
+    "business_name": "Royal Cafe",
+    "category": "Restaurant",
+    "city": "Pune",
+    "address": "651, Kothrud Road, Pune",
+    "phone": "+91-7805107816",
+    "source": "Sulekha",
+    "created_at": "2025-07-01 18:12:19"
+  },
+  {
+    "business_name": "Gear Workshop",
+    "category": "Automobile",
+    "city": "Nagpur",
+    "address": "11, Amravati Road Nagar, Nagpur",
+    "phone": "+91-8308349356",
+    "source": "TradeIndia",
+    "created_at": "2025-05-15 18:12:19"
+  },
+  {
+    "business_name": "Finance Banking & Finance",
+    "category": "Banking & Finance",
+    "city": "Visakhapatnam",
+    "address": "921, Gajuwaka Avenue, Visakhapatnam",
+    "phone": "+91-8495631458",
+    "source": "Justdial",
+    "created_at": "2025-07-11 18:12:19"
+  },
+  {
+    "business_name": "Cure Health Store",
+    "category": "Pharmacy",
+    "city": "Ahmedabad",
+    "address": "825, Navrangpura Avenue, Ahmedabad",
+    "phone": "+91-9667958328",
+    "source": "IndiaMart",
+    "created_at": "2025-11-16 18:12:19"
+  },
+  {
+    "business_name": "Infra Infrastructure",
+    "category": "Construction",
+    "city": "Kolkata",
+    "address": "965, Salt Lake Market, Kolkata",
+    "phone": "+91-8424874795",
+    "source": "Justdial",
+    "created_at": "2025-06-15 18:12:19"
+  },
+  {
+    "business_name": "Nature Shop",
+    "category": "Grocery",
+    "city": "Bangalore",
+    "address": "894, Koramangala Lane, Bangalore",
+    "phone": "+91-8795507396",
+    "source": "TradeIndia",
+    "created_at": "2025-12-18 18:12:19"
+  },
+  {
+    "business_name": "Gem Jewellers",
+    "category": "Jewellery",
+    "city": "Nagpur",
+    "address": "811, Sitabuldi Marg, Nagpur",
+    "phone": "+91-8976883840",
+    "source": "Justdial",
+    "created_at": "2025-09-15 18:12:19"
+  },
+  {
+    "business_name": "Growth Financial Services",
+    "category": "Banking & Finance",
+    "city": "Bhopal",
+    "address": "456, Arera Colony Complex, Bhopal",
+    "phone": null,
+    "source": "Sulekha",
+    "created_at": "2026-04-05 18:12:19"
+  },
+  {
+    "business_name": "Modern Design Studio",
+    "category": "Home Decor",
+    "city": "Ahmedabad",
+    "address": "15, Maninagar Marg, Ahmedabad",
+    "phone": "+91-8582423769",
+    "source": "Google Maps",
+    "created_at": "2025-05-12 18:12:19"
+  },
+  {
+    "business_name": "Cloud IT Services",
+    "category": "IT Services",
+    "city": "Pune",
+    "address": "498, Viman Nagar Plaza, Pune",
+    "phone": "+91-8596524895",
+    "source": "Google Maps",
+    "created_at": "2026-03-04 18:12:19"
+  },
+  {
+    "business_name": "Royal Diamonds",
+    "category": "Jewellery",
+    "city": "Vadodara",
+    "address": "20, Vadsar Road, Vadodara",
+    "phone": "+91-9818597344",
+    "source": "Google Maps",
+    "created_at": "2026-02-23 18:12:19"
+  },
+  {
+    "business_name": "Style Living",
+    "category": "Home Decor",
+    "city": "Vadodara",
+    "address": "410, Fatehganj Marg, Vadodara",
+    "phone": "+91-9447714359",
+    "source": "Justdial",
+    "created_at": "2025-07-19 18:12:19"
+  },
+  {
+    "business_name": "Fund Solutions",
+    "category": "Banking & Finance",
+    "city": "Vadodara",
+    "address": "503, Vadsar Colony, Vadodara",
+    "phone": null,
+    "source": "Google Maps",
+    "created_at": "2025-08-26 18:12:19"
+  },
+  {
+    "business_name": "Star Medical Centre",
+    "category": "Hospital",
+    "city": "Lucknow",
+    "address": "389, Aliganj Street, Lucknow",
+    "phone": "+91-7896921300",
+    "source": "IndiaMart",
+    "created_at": "2026-01-30 18:12:19"
+  },
+  {
+    "business_name": "Gear Automobiles",
+    "category": "Automobile",
+    "city": "Nagpur",
+    "address": "874, Wardha Road Market, Nagpur",
+    "phone": "+91-9492122904",
+    "source": "IndiaMart",
+    "created_at": "2025-12-25 18:12:19"
+  },
+  {
+    "business_name": "Lex Law Firm",
+    "category": "Legal Services",
+    "city": "Nagpur",
+    "address": "892, Dharampeth Marg, Nagpur",
+    "phone": "+91-9412741083",
+    "source": "TradeIndia",
+    "created_at": "2026-02-01 18:12:19"
+  },
+  {
+    "business_name": "Celebrate Management",
+    "category": "Event Management",
+    "city": "Kolkata",
+    "address": "598, Howrah Colony, Kolkata",
+    "phone": "+91-8834820959",
+    "source": "Justdial",
+    "created_at": "2026-01-18 18:12:19"
+  },
+  {
+    "business_name": "Spice Restaurant",
+    "category": "Restaurant",
+    "city": "Ludhiana",
+    "address": "815, Model Town Plaza, Ludhiana",
+    "phone": "+91-9972422280",
+    "source": "Google Maps",
+    "created_at": "2026-03-09 18:12:19"
+  },
+  {
+    "business_name": "Sparkle Jewellery",
+    "category": "Jewellery",
+    "city": "Jaipur",
+    "address": "197, Mansarovar Plaza, Jaipur",
+    "phone": "+91-8182431821",
+    "source": "TradeIndia",
+    "created_at": "2025-07-05 18:12:19"
+  },
+  {
+    "business_name": "Diamond Jewellery",
+    "category": "Jewellery",
+    "city": "Lucknow",
+    "address": "316, Hazratganj Bazaar, Lucknow",
+    "phone": "+91-9180006046",
+    "source": "IndiaMart",
+    "created_at": "2025-09-01 18:12:19"
+  },
+  {
+    "business_name": "Heritage Diamonds",
+    "category": "Jewellery",
+    "city": "Ludhiana",
+    "address": "482, Pakhowal Road Complex, Ludhiana",
+    "phone": null,
+    "source": "Sulekha",
+    "created_at": "2025-07-14 18:12:19"
+  },
+  {
+    "business_name": "Plus Chemist",
+    "category": "Pharmacy",
+    "city": "Bhopal",
+    "address": "281, Shahpura Road, Bhopal",
+    "phone": null,
+    "source": "TradeIndia",
+    "created_at": "2025-09-10 18:12:19"
+  },
+  {
+    "business_name": "Globe Expeditions",
+    "category": "Travel & Tours",
+    "city": "Ludhiana",
+    "address": "346, Ferozepur Road Complex, Ludhiana",
+    "phone": "+91-8113159125",
+    "source": "Sulekha",
+    "created_at": "2026-04-04 18:12:19"
+  },
+  {
+    "business_name": "Crown Real Estate",
+    "category": "Real Estate",
+    "city": "Surat",
+    "address": "899, Katargam Avenue, Surat",
+    "phone": "+91-9359306939",
+    "source": "Sulekha",
+    "created_at": "2025-08-28 18:12:19"
+  },
+  {
+    "business_name": "City Hotel",
+    "category": "Hotel",
+    "city": "Indore",
+    "address": "13, MG Road Road, Indore",
+    "phone": null,
+    "source": "Google Maps",
+    "created_at": "2025-08-20 18:12:19"
+  },
+  {
+    "business_name": "Prime Diagnostics",
+    "category": "Hospital",
+    "city": "Jaipur",
+    "address": "971, Jagatpura Marg, Jaipur",
+    "phone": "+91-9117128157",
+    "source": "IndiaMart",
+    "created_at": "2025-07-18 18:12:19"
+  },
+  {
+    "business_name": "Style Design Studio",
+    "category": "Home Decor",
+    "city": "Vadodara",
+    "address": "252, Manjalpur Road, Vadodara",
+    "phone": "+91-9556461174",
+    "source": "TradeIndia",
+    "created_at": "2025-08-06 18:12:19"
+  },
+  {
+    "business_name": "Apex Coaching",
+    "category": "Education & Coaching",
+    "city": "Pune",
+    "address": "415, Hinjewadi Lane, Pune",
+    "phone": "+91-8455905304",
+    "source": "Sulekha",
+    "created_at": "2025-07-27 18:12:19"
+  },
+  {
+    "business_name": "Curry Eatery",
+    "category": "Restaurant",
+    "city": "Patna",
+    "address": "823, Boring Road Lane, Patna",
+    "phone": "+91-8569001656",
+    "source": "Google Maps",
+    "created_at": "2026-01-08 18:12:19"
+  },
+  {
+    "business_name": "Design Home Decor",
+    "category": "Home Decor",
+    "city": "Pune",
+    "address": "626, Wakad Nagar, Pune",
+    "phone": "+91-9224723701",
+    "source": "Justdial",
+    "created_at": "2025-05-20 18:12:19"
+  },
+  {
+    "business_name": "Fresh Market",
+    "category": "Grocery",
+    "city": "Delhi",
+    "address": "791, Lajpat Nagar Nagar, Delhi",
+    "phone": "+91-7065190562",
+    "source": "Justdial",
+    "created_at": "2026-04-28 18:12:19"
+  },
+  {
+    "business_name": "Chic Beauty Studio",
+    "category": "Salon & Spa",
+    "city": "Mumbai",
+    "address": "110, Worli Chowk, Mumbai",
+    "phone": "+91-9797277157",
+    "source": "TradeIndia",
+    "created_at": "2025-06-02 18:12:19"
+  },
+  {
+    "business_name": "Scholar Education & Coaching",
+    "category": "Education & Coaching",
+    "city": "Lucknow",
+    "address": "227, Indira Nagar Road, Lucknow",
+    "phone": null,
+    "source": "TradeIndia",
+    "created_at": "2026-03-27 18:12:19"
+  },
+  {
+    "business_name": "National Nursing Home",
+    "category": "Hospital",
+    "city": "Nagpur",
+    "address": "773, Dharampeth Chowk, Nagpur",
+    "phone": null,
+    "source": "Google Maps",
+    "created_at": "2025-12-26 18:12:19"
+  },
+  {
+    "business_name": "Journey Expeditions",
+    "category": "Travel & Tours",
+    "city": "Bhopal",
+    "address": "967, Bairagarh Market, Bhopal",
+    "phone": "+91-7925509763",
+    "source": "Justdial",
+    "created_at": "2026-02-09 18:12:19"
+  },
+  {
+    "business_name": "Sunrise Hospital",
+    "category": "Hospital",
+    "city": "Jaipur",
+    "address": "992, C-Scheme Lane, Jaipur",
+    "phone": "+91-8836069631",
+    "source": "IndiaMart",
+    "created_at": "2025-12-29 18:12:19"
+  },
+  {
+    "business_name": "Finance Banking & Finance",
+    "category": "Banking & Finance",
+    "city": "Pune",
+    "address": "162, Kothrud Nagar, Pune",
+    "phone": "+91-8521197630",
+    "source": "IndiaMart",
+    "created_at": "2025-11-29 18:12:19"
+  },
+  {
+    "business_name": "Empire Builders",
+    "category": "Real Estate",
+    "city": "Surat",
+    "address": "602, Ring Road Plaza, Surat",
+    "phone": "+91-9251989207",
+    "source": "Justdial",
+    "created_at": "2025-10-25 18:12:19"
+  },
+  {
+    "business_name": "Style Collections",
+    "category": "Clothing & Fashion",
+    "city": "Nagpur",
+    "address": "920, Manish Nagar Chowk, Nagpur",
+    "phone": "+91-8076701830",
+    "source": "Sulekha",
+    "created_at": "2025-06-12 18:12:19"
+  },
+  {
+    "business_name": "Decor Home Decor",
+    "category": "Home Decor",
+    "city": "Bangalore",
+    "address": "894, Whitefield Nagar, Bangalore",
+    "phone": "+91-8545311553",
+    "source": "Sulekha",
+    "created_at": "2026-04-11 18:12:19"
+  },
+  {
+    "business_name": "Swift Garage",
+    "category": "Automobile",
+    "city": "Agra",
+    "address": "982, Belanganj Market, Agra",
+    "phone": "+91-9755225008",
+    "source": "Justdial",
+    "created_at": "2025-06-11 18:12:19"
+  },
+  {
+    "business_name": "Capital Consultants",
+    "category": "Banking & Finance",
+    "city": "Ahmedabad",
+    "address": "44, Vastrapur Avenue, Ahmedabad",
+    "phone": "+91-9587462735",
+    "source": "Sulekha",
+    "created_at": "2025-08-31 18:12:19"
+  },
+  {
+    "business_name": "Saffron Restaurant",
+    "category": "Restaurant",
+    "city": "Hyderabad",
+    "address": "182, Ameerpet Marg, Hyderabad",
+    "phone": null,
+    "source": "Justdial",
+    "created_at": "2025-10-08 18:12:19"
+  },
+  {
+    "business_name": "Growth Finance",
+    "category": "Banking & Finance",
+    "city": "Visakhapatnam",
+    "address": "162, Dwaraka Nagar Complex, Visakhapatnam",
+    "phone": "+91-9061267099",
+    "source": "IndiaMart",
+    "created_at": "2026-03-07 18:12:19"
+  },
+  {
+    "business_name": "Heal Pharmacy",
+    "category": "Pharmacy",
+    "city": "Chennai",
+    "address": "606, Velachery Complex, Chennai",
+    "phone": null,
+    "source": "TradeIndia",
+    "created_at": "2025-11-21 18:12:19"
+  },
+  {
+    "business_name": "Style Clothing & Fashion",
+    "category": "Clothing & Fashion",
+    "city": "Jaipur",
+    "address": "270, Mansarovar Chowk, Jaipur",
+    "phone": "+91-7823277620",
+    "source": "Sulekha",
+    "created_at": "2025-11-08 18:12:19"
+  },
+  {
+    "business_name": "Beauty Salon & Spa",
+    "category": "Salon & Spa",
+    "city": "Indore",
+    "address": "169, MG Road Complex, Indore",
+    "phone": null,
+    "source": "Google Maps",
+    "created_at": "2025-06-24 18:12:19"
+  },
+  {
+    "business_name": "Gear Workshop",
+    "category": "Automobile",
+    "city": "Jaipur",
+    "address": "73, Vaishali Nagar Street, Jaipur",
+    "phone": "+91-9771922283",
+    "source": "IndiaMart",
+    "created_at": "2026-03-03 18:12:19"
+  },
+  {
+    "business_name": "Power Fitness Studio",
+    "category": "Gym & Fitness",
+    "city": "Vadodara",
+    "address": "252, Fatehganj Road, Vadodara",
+    "phone": "+91-9781517002",
+    "source": "TradeIndia",
+    "created_at": "2026-02-07 18:12:19"
+  },
+  {
+    "business_name": "Mode Store",
+    "category": "Clothing & Fashion",
+    "city": "Bangalore",
+    "address": "461, JP Nagar Chowk, Bangalore",
+    "phone": null,
+    "source": "IndiaMart",
+    "created_at": "2025-12-08 18:12:19"
+  },
+  {
+    "business_name": "Invest Solutions",
+    "category": "Banking & Finance",
+    "city": "Pune",
+    "address": "300, Hadapsar Avenue, Pune",
+    "phone": "+91-8378559254",
+    "source": "TradeIndia",
+    "created_at": "2025-06-03 18:12:19"
+  },
+  {
+    "business_name": "Park Resort",
+    "category": "Hotel",
+    "city": "Vadodara",
+    "address": "521, Alkapuri Bazaar, Vadodara",
+    "phone": null,
+    "source": "Sulekha",
+    "created_at": "2025-07-05 18:12:19"
+  },
+  {
+    "business_name": "Elite Housing",
+    "category": "Real Estate",
+    "city": "Hyderabad",
+    "address": "304, Secunderabad Market, Hyderabad",
+    "phone": "+91-7029904977",
+    "source": "Google Maps",
+    "created_at": "2025-05-21 18:12:19"
+  },
+  {
+    "business_name": "Urban Fashion House",
+    "category": "Clothing & Fashion",
+    "city": "Mumbai",
+    "address": "390, Worli Bazaar, Mumbai",
+    "phone": "+91-9804249373",
+    "source": "Justdial",
+    "created_at": "2025-09-07 18:12:19"
+  },
+  {
+    "business_name": "National Hospital",
+    "category": "Hospital",
+    "city": "Ahmedabad",
+    "address": "288, Bopal Plaza, Ahmedabad",
+    "phone": null,
+    "source": "IndiaMart",
+    "created_at": "2025-08-15 18:12:19"
+  },
+  {
+    "business_name": "Gem Jewellers",
+    "category": "Jewellery",
+    "city": "Bhopal",
+    "address": "705, Bairagarh Avenue, Bhopal",
+    "phone": "+91-8552411698",
+    "source": "Sulekha",
+    "created_at": "2026-01-17 18:12:19"
+  },
+  {
+    "business_name": "Premier Planners",
+    "category": "Event Management",
+    "city": "Mumbai",
+    "address": "954, Bandra Road, Mumbai",
+    "phone": "+91-9005443049",
+    "source": "Justdial",
+    "created_at": "2026-03-07 18:12:19"
+  },
+  {
+    "business_name": "Urban Fashion House",
+    "category": "Clothing & Fashion",
+    "city": "Delhi",
+    "address": "410, Rohini Chowk, Delhi",
+    "phone": "+91-8119280701",
+    "source": "IndiaMart",
+    "created_at": "2025-10-31 18:12:19"
+  },
+  {
+    "business_name": "City Healthcare",
+    "category": "Hospital",
+    "city": "Ahmedabad",
+    "address": "879, Bopal Chowk, Ahmedabad",
+    "phone": "+91-9332339994",
+    "source": "IndiaMart",
+    "created_at": "2026-04-01 18:12:19"
+  },
+  {
+    "business_name": "Beauty Hair Studio",
+    "category": "Salon & Spa",
+    "city": "Bangalore",
+    "address": "322, Indiranagar Chowk, Bangalore",
+    "phone": "+91-8698695125",
+    "source": "Sulekha",
+    "created_at": "2025-06-11 18:12:19"
+  },
+  {
+    "business_name": "Justice Consultants",
+    "category": "Legal Services",
+    "city": "Nagpur",
+    "address": "594, Sadar Lane, Nagpur",
+    "phone": "+91-8542241976",
+    "source": "IndiaMart",
+    "created_at": "2025-07-13 18:12:19"
+  },
+  {
+    "business_name": "Saffron Restaurant",
+    "category": "Restaurant",
+    "city": "Jaipur",
+    "address": "505, MI Road Complex, Jaipur",
+    "phone": null,
+    "source": "Google Maps",
+    "created_at": "2025-10-10 18:12:19"
+  },
+  {
+    "business_name": "Digital Gadgets",
+    "category": "Electronics",
+    "city": "Delhi",
+    "address": "66, Janakpuri Plaza, Delhi",
+    "phone": "+91-9941006875",
+    "source": "TradeIndia",
+    "created_at": "2025-12-18 18:12:19"
+  },
+  {
+    "business_name": "Power World",
+    "category": "Electronics",
+    "city": "Chennai",
+    "address": "750, T. Nagar Street, Chennai",
+    "phone": "+91-9254478612",
+    "source": "Justdial",
+    "created_at": "2025-07-22 18:12:19"
+  },
+  {
+    "business_name": "Stay Guest House",
+    "category": "Hotel",
+    "city": "Nagpur",
+    "address": "539, Sitabuldi Plaza, Nagpur",
+    "phone": "+91-8203117120",
+    "source": "Sulekha",
+    "created_at": "2025-12-07 18:12:19"
+  },
+  {
+    "business_name": "Grace Diagnostics",
+    "category": "Hospital",
+    "city": "Agra",
+    "address": "732, Civil Lines Lane, Agra",
+    "phone": "+91-8052429045",
+    "source": "Google Maps",
+    "created_at": "2025-06-07 18:12:19"
+  },
+  {
+    "business_name": "Ultra Fitness Studio",
+    "category": "Gym & Fitness",
+    "city": "Visakhapatnam",
+    "address": "475, Steel Plant Area Lane, Visakhapatnam",
+    "phone": "+91-9941259246",
+    "source": "IndiaMart",
+    "created_at": "2025-06-04 18:12:19"
+  },
+  {
+    "business_name": "Bright Education & Coaching",
+    "category": "Education & Coaching",
+    "city": "Lucknow",
+    "address": "731, Alambagh Bazaar, Lucknow",
+    "phone": "+91-8702646874",
+    "source": "Google Maps",
+    "created_at": "2025-08-16 18:12:19"
+  },
+  {
+    "business_name": "Heal Chemist",
+    "category": "Pharmacy",
+    "city": "Visakhapatnam",
+    "address": "429, Rushikonda Chowk, Visakhapatnam",
+    "phone": null,
+    "source": "Sulekha",
+    "created_at": "2026-04-14 18:12:19"
+  },
+  {
+    "business_name": "Swift Auto Works",
+    "category": "Automobile",
+    "city": "Indore",
+    "address": "948, Scheme 54 Colony, Indore",
+    "phone": "+91-9133653354",
+    "source": "Google Maps",
+    "created_at": "2026-03-23 18:12:19"
+  },
+  {
+    "business_name": "Classic Home Decor",
+    "category": "Home Decor",
+    "city": "Bhopal",
+    "address": "644, Shahpura Avenue, Bhopal",
+    "phone": "+91-8363882653",
+    "source": "Sulekha",
+    "created_at": "2026-02-18 18:12:19"
+  },
+  {
+    "business_name": "Max Gym & Fitness",
+    "category": "Gym & Fitness",
+    "city": "Kanpur",
+    "address": "363, Arya Nagar Chowk, Kanpur",
+    "phone": "+91-8633842783",
+    "source": "IndiaMart",
+    "created_at": "2025-12-12 18:12:19"
+  },
+  {
+    "business_name": "Mentor Classes",
+    "category": "Education & Coaching",
+    "city": "Chennai",
+    "address": "182, Perambur Bazaar, Chennai",
+    "phone": "+91-9032625967",
+    "source": "Google Maps",
+    "created_at": "2025-06-15 18:12:19"
+  },
+  {
+    "business_name": "Family Provisions",
+    "category": "Grocery",
+    "city": "Bhopal",
+    "address": "152, Kolar Road Road, Bhopal",
+    "phone": null,
+    "source": "Sulekha",
+    "created_at": "2025-07-18 18:12:19"
+  },
+  {
+    "business_name": "Festive Event Management",
+    "category": "Event Management",
+    "city": "Mumbai",
+    "address": "789, Juhu Road, Mumbai",
+    "phone": "+91-8889390820",
+    "source": "Google Maps",
+    "created_at": "2025-12-02 18:12:19"
+  },
+  {
+    "business_name": "Cozy Decor",
+    "category": "Home Decor",
+    "city": "Indore",
+    "address": "533, Scheme 54 Colony, Indore",
+    "phone": "+91-8180537946",
+    "source": "IndiaMart",
+    "created_at": "2025-11-01 18:12:19"
+  },
+  {
+    "business_name": "Gold Ornaments",
+    "category": "Jewellery",
+    "city": "Chennai",
+    "address": "776, T. Nagar Avenue, Chennai",
+    "phone": "+91-9427078094",
+    "source": "TradeIndia",
+    "created_at": "2025-12-18 18:12:19"
+  },
+  {
+    "business_name": "Classic Gems",
+    "category": "Jewellery",
+    "city": "Nagpur",
+    "address": "277, Manish Nagar Lane, Nagpur",
+    "phone": "+91-9979540258",
+    "source": "TradeIndia",
+    "created_at": "2026-03-23 18:12:19"
+  },
+  {
+    "business_name": "Life Health Store",
+    "category": "Pharmacy",
+    "city": "Ahmedabad",
+    "address": "477, SG Highway Avenue, Ahmedabad",
+    "phone": "+91-8182060455",
+    "source": "Sulekha",
+    "created_at": "2025-12-28 18:12:19"
+  },
+  {
+    "business_name": "Chic Beauty Parlour",
+    "category": "Salon & Spa",
+    "city": "Hyderabad",
+    "address": "220, Banjara Hills Road, Hyderabad",
+    "phone": "+91-7772232522",
+    "source": "Justdial",
+    "created_at": "2025-09-29 18:12:19"
+  },
+  {
+    "business_name": "Fund Banking & Finance",
+    "category": "Banking & Finance",
+    "city": "Vadodara",
+    "address": "480, Manjalpur Market, Vadodara",
+    "phone": null,
+    "source": "Justdial",
+    "created_at": "2026-02-18 18:12:19"
+  },
+  {
+    "business_name": "Apollo Hospital",
+    "category": "Hospital",
+    "city": "Visakhapatnam",
+    "address": "598, Rushikonda Market, Visakhapatnam",
+    "phone": "+91-9069686642",
+    "source": "Justdial",
+    "created_at": "2025-09-30 18:12:19"
+  },
+  {
+    "business_name": "Classic Living",
+    "category": "Home Decor",
+    "city": "Chennai",
+    "address": "143, Velachery Complex, Chennai",
+    "phone": "+91-9784708099",
+    "source": "TradeIndia",
+    "created_at": "2025-07-10 18:12:19"
+  },
+  {
+    "business_name": "Justice Legal Services",
+    "category": "Legal Services",
+    "city": "Hyderabad",
+    "address": "775, Banjara Hills Chowk, Hyderabad",
+    "phone": "+91-7889824412",
+    "source": "Google Maps",
+    "created_at": "2025-09-25 18:12:19"
+  },
+  {
+    "business_name": "Explore Holidays",
+    "category": "Travel & Tours",
+    "city": "Agra",
+    "address": "566, Belanganj Nagar, Agra",
+    "phone": "+91-7844255090",
+    "source": "TradeIndia",
+    "created_at": "2025-12-25 18:12:19"
+  },
+  {
+    "business_name": "Star Hospital",
+    "category": "Hospital",
+    "city": "Ahmedabad",
+    "address": "144, Bopal Plaza, Ahmedabad",
+    "phone": "+91-9767889335",
+    "source": "Sulekha",
+    "created_at": "2026-02-14 18:12:19"
+  },
+  {
+    "business_name": "Glow Salon & Spa",
+    "category": "Salon & Spa",
+    "city": "Ahmedabad",
+    "address": "470, Vastrapur Market, Ahmedabad",
+    "phone": null,
+    "source": "IndiaMart",
+    "created_at": "2025-12-19 18:12:19"
+  },
+  {
+    "business_name": "Digital Electronics",
+    "category": "Electronics",
+    "city": "Ahmedabad",
+    "address": "633, Navrangpura Complex, Ahmedabad",
+    "phone": "+91-8145222432",
+    "source": "Google Maps",
+    "created_at": "2026-04-23 18:12:19"
+  },
+  {
+    "business_name": "Elegant Decor",
+    "category": "Home Decor",
+    "city": "Jaipur",
+    "address": "691, MI Road Colony, Jaipur",
+    "phone": null,
+    "source": "Google Maps",
+    "created_at": "2025-07-15 18:12:19"
+  },
+  {
+    "business_name": "Finance Banking & Finance",
+    "category": "Banking & Finance",
+    "city": "Mumbai",
+    "address": "409, Malad Street, Mumbai",
+    "phone": "+91-7928213924",
+    "source": "Justdial",
+    "created_at": "2026-03-03 18:12:19"
+  },
+  {
+    "business_name": "Invest Advisors",
+    "category": "Banking & Finance",
+    "city": "Delhi",
+    "address": "64, Connaught Place Avenue, Delhi",
+    "phone": "+91-9161316697",
+    "source": "Justdial",
+    "created_at": "2025-11-19 18:12:19"
+  },
+  {
+    "business_name": "Invest Banking & Finance",
+    "category": "Banking & Finance",
+    "city": "Kolkata",
+    "address": "496, Gariahat Bazaar, Kolkata",
+    "phone": "+91-8295735007",
+    "source": "IndiaMart",
+    "created_at": "2025-10-26 18:12:19"
+  },
+  {
+    "business_name": "Star Diagnostics",
+    "category": "Hospital",
+    "city": "Vadodara",
+    "address": "433, Manjalpur Lane, Vadodara",
+    "phone": "+91-7701062136",
+    "source": "Google Maps",
+    "created_at": "2026-03-07 18:12:19"
+  },
+  {
+    "business_name": "Life Medicals",
+    "category": "Pharmacy",
+    "city": "Agra",
+    "address": "213, Sikandra Colony, Agra",
+    "phone": "+91-8520765295",
+    "source": "TradeIndia",
+    "created_at": "2025-05-08 18:12:19"
+  },
+  {
+    "business_name": "Fab Collections",
+    "category": "Clothing & Fashion",
+    "city": "Patna",
+    "address": "76, Rajendra Nagar Road, Patna",
+    "phone": "+91-8725968127",
+    "source": "Sulekha",
+    "created_at": "2026-01-29 18:12:19"
+  },
+  {
+    "business_name": "Gear Workshop",
+    "category": "Automobile",
+    "city": "Bangalore",
+    "address": "738, Marathahalli Lane, Bangalore",
+    "phone": "+91-9332462334",
+    "source": "Sulekha",
+    "created_at": "2025-10-01 18:12:19"
+  },
+  {
+    "business_name": "Growth Banking & Finance",
+    "category": "Banking & Finance",
+    "city": "Hyderabad",
+    "address": "268, Hitech City Bazaar, Hyderabad",
+    "phone": "+91-9773775174",
+    "source": "Google Maps",
+    "created_at": "2025-07-13 18:12:19"
+  },
+  {
+    "business_name": "Alpha Fitness Studio",
+    "category": "Gym & Fitness",
+    "city": "Visakhapatnam",
+    "address": "140, Dwaraka Nagar Plaza, Visakhapatnam",
+    "phone": "+91-8017303943",
+    "source": "Justdial",
+    "created_at": "2025-07-27 18:12:19"
+  },
+  {
+    "business_name": "Body Sports Club",
+    "category": "Gym & Fitness",
+    "city": "Pune",
+    "address": "296, Baner Plaza, Pune",
+    "phone": "+91-8423974162",
+    "source": "Sulekha",
+    "created_at": "2025-10-02 18:12:19"
+  },
+  {
+    "business_name": "Code Technologies",
+    "category": "IT Services",
+    "city": "Indore",
+    "address": "427, Palasia Complex, Indore",
+    "phone": "+91-9776079608",
+    "source": "Sulekha",
+    "created_at": "2025-10-22 18:12:19"
+  },
+  {
+    "business_name": "Capital Financial Services",
+    "category": "Banking & Finance",
+    "city": "Chennai",
+    "address": "77, Velachery Lane, Chennai",
+    "phone": "+91-8236648882",
+    "source": "Sulekha",
+    "created_at": "2026-02-23 18:12:19"
+  },
+  {
+    "business_name": "Ultra Gym",
+    "category": "Gym & Fitness",
+    "city": "Lucknow",
+    "address": "196, Gomti Nagar Chowk, Lucknow",
+    "phone": "+91-8693824479",
+    "source": "Sulekha",
+    "created_at": "2025-06-20 18:12:19"
+  },
+  {
+    "business_name": "Super Grocery",
+    "category": "Grocery",
+    "city": "Chennai",
+    "address": "360, OMR Road, Chennai",
+    "phone": null,
+    "source": "Justdial",
+    "created_at": "2025-06-23 18:12:19"
+  },
+  {
+    "business_name": "Pixel Hub",
+    "category": "Electronics",
+    "city": "Kanpur",
+    "address": "810, Arya Nagar Road, Kanpur",
+    "phone": "+91-7020449392",
+    "source": "TradeIndia",
+    "created_at": "2025-06-25 18:12:19"
+  },
+  {
+    "business_name": "Pro Gym & Fitness",
+    "category": "Gym & Fitness",
+    "city": "Bhopal",
+    "address": "247, Shahpura Market, Bhopal",
+    "phone": "+91-9272912592",
+    "source": "Justdial",
+    "created_at": "2025-11-21 18:12:19"
+  },
+  {
+    "business_name": "Law Advocates",
+    "category": "Legal Services",
+    "city": "Ahmedabad",
+    "address": "733, SG Highway Lane, Ahmedabad",
+    "phone": "+91-8399381416",
+    "source": "Google Maps",
+    "created_at": "2025-12-24 18:12:19"
+  },
+  {
+    "business_name": "Festive Organizers",
+    "category": "Event Management",
+    "city": "Ahmedabad",
+    "address": "184, Navrangpura Bazaar, Ahmedabad",
+    "phone": "+91-9576002895",
+    "source": "Google Maps",
+    "created_at": "2025-10-21 18:12:19"
+  },
+  {
+    "business_name": "Elite Salon",
+    "category": "Salon & Spa",
+    "city": "Kolkata",
+    "address": "313, Howrah Road, Kolkata",
+    "phone": "+91-9975161562",
+    "source": "TradeIndia",
+    "created_at": "2025-07-23 18:12:19"
+  },
+  {
+    "business_name": "Profit Advisors",
+    "category": "Banking & Finance",
+    "city": "Chennai",
+    "address": "772, Velachery Nagar, Chennai",
+    "phone": "+91-9364593234",
+    "source": "Justdial",
+    "created_at": "2026-02-23 18:12:19"
+  },
+  {
+    "business_name": "Urban Clothing & Fashion",
+    "category": "Clothing & Fashion",
+    "city": "Chennai",
+    "address": "736, Adyar Plaza, Chennai",
+    "phone": "+91-9961125801",
+    "source": "Google Maps",
+    "created_at": "2026-03-01 18:12:19"
+  },
+  {
+    "business_name": "Horizon Housing",
+    "category": "Real Estate",
+    "city": "Delhi",
+    "address": "144, Saket Bazaar, Delhi",
+    "phone": "+91-9510147071",
+    "source": "Google Maps",
+    "created_at": "2025-12-01 18:12:19"
+  },
+  {
+    "business_name": "Design Construction",
+    "category": "Construction",
+    "city": "Bhopal",
+    "address": "539, Arera Colony Chowk, Bhopal",
+    "phone": "+91-7073484018",
+    "source": "Justdial",
+    "created_at": "2025-07-08 18:12:19"
+  },
+  {
+    "business_name": "Stay Hotel",
+    "category": "Hotel",
+    "city": "Indore",
+    "address": "772, MG Road Nagar, Indore",
+    "phone": null,
+    "source": "Google Maps",
+    "created_at": "2026-01-24 18:12:19"
+  },
+  {
+    "business_name": "Living Decor",
+    "category": "Home Decor",
+    "city": "Lucknow",
+    "address": "196, Rajajipuram Chowk, Lucknow",
+    "phone": "+91-8742849628",
+    "source": "Sulekha",
+    "created_at": "2026-04-29 18:12:19"
+  },
+  {
+    "business_name": "Elite Spa",
+    "category": "Salon & Spa",
+    "city": "Jaipur",
+    "address": "122, Vaishali Nagar Market, Jaipur",
+    "phone": "+91-9394909367",
+    "source": "Justdial",
+    "created_at": "2025-08-23 18:12:19"
+  },
+  {
+    "business_name": "Decor Living",
+    "category": "Home Decor",
+    "city": "Kolkata",
+    "address": "927, Park Street Marg, Kolkata",
+    "phone": "+91-9680778015",
+    "source": "IndiaMart",
+    "created_at": "2025-09-20 18:12:19"
+  },
+  {
+    "business_name": "Med Medical Store",
+    "category": "Pharmacy",
+    "city": "Jaipur",
+    "address": "87, Vaishali Nagar Complex, Jaipur",
+    "phone": "+91-7789086757",
+    "source": "IndiaMart",
+    "created_at": "2026-03-02 18:12:19"
+  },
+  {
+    "business_name": "Justice Partners",
+    "category": "Legal Services",
+    "city": "Vadodara",
+    "address": "333, Gotri Marg, Vadodara",
+    "phone": "+91-8360082129",
+    "source": "TradeIndia",
+    "created_at": "2025-12-23 18:12:19"
+  },
+  {
+    "business_name": "Sys Systems",
+    "category": "IT Services",
+    "city": "Agra",
+    "address": "921, Kamla Nagar Marg, Agra",
+    "phone": "+91-7812766966",
+    "source": "IndiaMart",
+    "created_at": "2026-02-06 18:12:19"
+  },
+  {
+    "business_name": "Success Coaching",
+    "category": "Education & Coaching",
+    "city": "Kolkata",
+    "address": "420, Park Street Road, Kolkata",
+    "phone": null,
+    "source": "Justdial",
+    "created_at": "2026-04-22 18:12:19"
+  },
+  {
+    "business_name": "Explore Adventures",
+    "category": "Travel & Tours",
+    "city": "Kolkata",
+    "address": "361, Gariahat Complex, Kolkata",
+    "phone": "+91-7961547551",
+    "source": "Justdial",
+    "created_at": "2025-09-05 18:12:19"
+  },
+  {
+    "business_name": "Palace Hotel",
+    "category": "Hotel",
+    "city": "Ahmedabad",
+    "address": "389, Bopal Colony, Ahmedabad",
+    "phone": "+91-9947148319",
+    "source": "Sulekha",
+    "created_at": "2025-12-02 18:12:19"
+  },
+  {
+    "business_name": "Care Medicals",
+    "category": "Pharmacy",
+    "city": "Lucknow",
+    "address": "977, Rajajipuram Plaza, Lucknow",
+    "phone": "+91-8264661424",
+    "source": "TradeIndia",
+    "created_at": "2026-01-16 18:12:19"
+  },
+  {
+    "business_name": "Asset Financial Services",
+    "category": "Banking & Finance",
+    "city": "Vadodara",
+    "address": "782, Vadsar Market, Vadodara",
+    "phone": "+91-9454773772",
+    "source": "Google Maps",
+    "created_at": "2026-04-17 18:12:19"
+  },
+  {
+    "business_name": "Chic Salon & Spa",
+    "category": "Salon & Spa",
+    "city": "Jaipur",
+    "address": "158, MI Road Colony, Jaipur",
+    "phone": "+91-8101458010",
+    "source": "IndiaMart",
+    "created_at": "2025-12-16 18:12:19"
+  },
+  {
+    "business_name": "Apollo Hospital",
+    "category": "Hospital",
+    "city": "Surat",
+    "address": "777, Adajan Complex, Surat",
+    "phone": "+91-8243353358",
+    "source": "TradeIndia",
+    "created_at": "2025-08-04 18:12:19"
+  },
+  {
+    "business_name": "Build Builders",
+    "category": "Construction",
+    "city": "Hyderabad",
+    "address": "300, Secunderabad Complex, Hyderabad",
+    "phone": "+91-8791221137",
+    "source": "TradeIndia",
+    "created_at": "2026-01-28 18:12:19"
+  },
+  {
+    "business_name": "Premier Resort",
+    "category": "Hotel",
+    "city": "Delhi",
+    "address": "75, Karol Bagh Complex, Delhi",
+    "phone": "+91-8507548361",
+    "source": "Sulekha",
+    "created_at": "2026-04-14 18:12:19"
+  },
+  {
+    "business_name": "Heritage Dhaba",
+    "category": "Restaurant",
+    "city": "Mumbai",
+    "address": "627, Bandra Nagar, Mumbai",
+    "phone": "+91-8181421192",
+    "source": "Sulekha",
+    "created_at": "2026-01-30 18:12:19"
+  },
+  {
+    "business_name": "Data IT Services",
+    "category": "IT Services",
+    "city": "Bangalore",
+    "address": "569, JP Nagar Chowk, Bangalore",
+    "phone": "+91-9190153122",
+    "source": "IndiaMart",
+    "created_at": "2026-04-04 18:12:19"
+  },
+  {
+    "business_name": "Mega Electronics",
+    "category": "Electronics",
+    "city": "Pune",
+    "address": "32, Viman Nagar Marg, Pune",
+    "phone": "+91-9292669429",
+    "source": "TradeIndia",
+    "created_at": "2025-08-18 18:12:19"
+  },
+  {
+    "business_name": "Crown Builders",
+    "category": "Real Estate",
+    "city": "Indore",
+    "address": "43, Palasia Market, Indore",
+    "phone": "+91-9465970344",
+    "source": "Google Maps",
+    "created_at": "2026-01-27 18:12:19"
+  },
+  {
+    "business_name": "Sparkle Jewellery",
+    "category": "Jewellery",
+    "city": "Kanpur",
+    "address": "348, Kakadeo Street, Kanpur",
+    "phone": "+91-9792617398",
+    "source": "TradeIndia",
+    "created_at": "2026-04-28 18:12:19"
+  },
+  {
+    "business_name": "Iron Fitness Studio",
+    "category": "Gym & Fitness",
+    "city": "Vadodara",
+    "address": "795, Fatehganj Street, Vadodara",
+    "phone": null,
+    "source": "Justdial",
+    "created_at": "2025-08-03 18:12:19"
+  },
+  {
+    "business_name": "Home Interiors",
+    "category": "Home Decor",
+    "city": "Agra",
+    "address": "754, Civil Lines Bazaar, Agra",
+    "phone": "+91-9387521114",
+    "source": "Justdial",
+    "created_at": "2026-01-19 18:12:19"
+  },
+  {
+    "business_name": "Wealth Financial Services",
+    "category": "Banking & Finance",
+    "city": "Bhopal",
+    "address": "665, Ayodhya Nagar Market, Bhopal",
+    "phone": "+91-8619112520",
+    "source": "Sulekha",
+    "created_at": "2025-09-25 18:12:19"
+  },
+  {
+    "business_name": "Cozy Living",
+    "category": "Home Decor",
+    "city": "Ludhiana",
+    "address": "534, Ferozepur Road Nagar, Ludhiana",
+    "phone": "+91-8350592385",
+    "source": "Google Maps",
+    "created_at": "2026-03-28 18:12:19"
+  },
+  {
+    "business_name": "Vision Real Estate",
+    "category": "Real Estate",
+    "city": "Jaipur",
+    "address": "522, Jagatpura Market, Jaipur",
+    "phone": "+91-9412164963",
+    "source": "TradeIndia",
+    "created_at": "2025-12-21 18:12:19"
+  },
+  {
+    "business_name": "Family Grocery",
+    "category": "Grocery",
+    "city": "Bangalore",
+    "address": "297, JP Nagar Street, Bangalore",
+    "phone": "+91-8531083200",
+    "source": "Google Maps",
+    "created_at": "2025-12-26 18:12:19"
+  },
+  {
+    "business_name": "Future Education & Coaching",
+    "category": "Education & Coaching",
+    "city": "Bangalore",
+    "address": "307, HSR Layout Market, Bangalore",
+    "phone": "+91-7925625672",
+    "source": "Justdial",
+    "created_at": "2026-04-21 18:12:19"
+  },
+  {
+    "business_name": "Holiday Tours",
+    "category": "Travel & Tours",
+    "city": "Bhopal",
+    "address": "631, Arera Colony Plaza, Bhopal",
+    "phone": "+91-9442700746",
+    "source": "Sulekha",
+    "created_at": "2026-03-09 18:12:19"
+  },
+  {
+    "business_name": "Classic Boutique",
+    "category": "Clothing & Fashion",
+    "city": "Bhopal",
+    "address": "527, Arera Colony Marg, Bhopal",
+    "phone": "+91-8541289898",
+    "source": "Sulekha",
+    "created_at": "2025-12-25 18:12:19"
+  },
+  {
+    "business_name": "Chic Clothing & Fashion",
+    "category": "Clothing & Fashion",
+    "city": "Nagpur",
+    "address": "34, Wardha Road Complex, Nagpur",
+    "phone": "+91-9091274674",
+    "source": "Google Maps",
+    "created_at": "2025-08-15 18:12:19"
+  },
+  {
+    "business_name": "Turbo Garage",
+    "category": "Automobile",
+    "city": "Nagpur",
+    "address": "953, Wardha Road Plaza, Nagpur",
+    "phone": "+91-8333112575",
+    "source": "IndiaMart",
+    "created_at": "2025-09-22 18:12:19"
+  },
+  {
+    "business_name": "Wisdom Academy",
+    "category": "Education & Coaching",
+    "city": "Patna",
+    "address": "954, Kankarbagh Lane, Patna",
+    "phone": "+91-9522104520",
+    "source": "Google Maps",
+    "created_at": "2025-11-05 18:12:19"
+  },
+  {
+    "business_name": "Select Grocery",
+    "category": "Grocery",
+    "city": "Hyderabad",
+    "address": "245, Gachibowli Lane, Hyderabad",
+    "phone": "+91-7050601423",
+    "source": "TradeIndia",
+    "created_at": "2025-11-15 18:12:19"
+  },
+  {
+    "business_name": "Modern Design Studio",
+    "category": "Home Decor",
+    "city": "Bhopal",
+    "address": "783, MP Nagar Street, Bhopal",
+    "phone": "+91-8574712690",
+    "source": "IndiaMart",
+    "created_at": "2025-06-17 18:12:19"
+  },
+  {
+    "business_name": "Ace Academy",
+    "category": "Education & Coaching",
+    "city": "Kanpur",
+    "address": "733, Arya Nagar Marg, Kanpur",
+    "phone": "+91-9725461063",
+    "source": "Google Maps",
+    "created_at": "2026-01-10 18:12:19"
+  },
+  {
+    "business_name": "Empire Properties",
+    "category": "Real Estate",
+    "city": "Agra",
+    "address": "793, Belanganj Bazaar, Agra",
+    "phone": "+91-8379128388",
+    "source": "Justdial",
+    "created_at": "2025-06-21 18:12:19"
+  },
+  {
+    "business_name": "Masala Grill",
+    "category": "Restaurant",
+    "city": "Surat",
+    "address": "516, Althan Avenue, Surat",
+    "phone": "+91-7841791151",
+    "source": "Google Maps",
+    "created_at": "2025-07-25 18:12:19"
+  },
+  {
+    "business_name": "Nawab Restaurant",
+    "category": "Restaurant",
+    "city": "Hyderabad",
+    "address": "217, Secunderabad Plaza, Hyderabad",
+    "phone": null,
+    "source": "IndiaMart",
+    "created_at": "2025-05-16 18:12:19"
+  },
+  {
+    "business_name": "Lexis Legal Services",
+    "category": "Legal Services",
+    "city": "Ludhiana",
+    "address": "81, Ferozepur Road Marg, Ludhiana",
+    "phone": "+91-8975341956",
+    "source": "TradeIndia",
+    "created_at": "2025-05-20 18:12:19"
+  },
+  {
+    "business_name": "Data IT Services",
+    "category": "IT Services",
+    "city": "Ahmedabad",
+    "address": "13, Maninagar Lane, Ahmedabad",
+    "phone": "+91-7949603126",
+    "source": "IndiaMart",
+    "created_at": "2025-12-07 18:12:19"
+  },
+  {
+    "business_name": "Metro Engineers",
+    "category": "Construction",
+    "city": "Kanpur",
+    "address": "662, Swaroop Nagar Bazaar, Kanpur",
+    "phone": "+91-9182522654",
+    "source": "Justdial",
+    "created_at": "2025-06-06 18:12:19"
+  },
+  {
+    "business_name": "Landmark Realty",
+    "category": "Real Estate",
+    "city": "Agra",
+    "address": "647, Dayalbagh Colony, Agra",
+    "phone": "+91-9865527711",
+    "source": "Sulekha",
+    "created_at": "2025-05-04 18:12:19"
+  },
+  {
+    "business_name": "City Hospital",
+    "category": "Hospital",
+    "city": "Pune",
+    "address": "427, Koregaon Park Bazaar, Pune",
+    "phone": "+91-9476347779",
+    "source": "Google Maps",
+    "created_at": "2025-11-06 18:12:19"
+  },
+  {
+    "business_name": "Counsel Legal Services",
+    "category": "Legal Services",
+    "city": "Agra",
+    "address": "918, Sikandra Nagar, Agra",
+    "phone": "+91-8177754841",
+    "source": "TradeIndia",
+    "created_at": "2026-03-13 18:12:19"
+  },
+  {
+    "business_name": "Park Lodge",
+    "category": "Hotel",
+    "city": "Nagpur",
+    "address": "858, Sadar Chowk, Nagpur",
+    "phone": "+91-8704194033",
+    "source": "TradeIndia",
+    "created_at": "2026-01-11 18:12:19"
+  },
+  {
+    "business_name": "Heal Pharmacy",
+    "category": "Pharmacy",
+    "city": "Bangalore",
+    "address": "686, Koramangala Plaza, Bangalore",
+    "phone": "+91-9251110537",
+    "source": "IndiaMart",
+    "created_at": "2025-07-19 18:12:19"
+  },
+  {
+    "business_name": "Crown Retreat",
+    "category": "Hotel",
+    "city": "Bangalore",
+    "address": "197, Marathahalli Nagar, Bangalore",
+    "phone": "+91-9179664720",
+    "source": "TradeIndia",
+    "created_at": "2025-11-05 18:12:19"
+  },
+  {
+    "business_name": "Premier Inn",
+    "category": "Hotel",
+    "city": "Visakhapatnam",
+    "address": "985, Dwaraka Nagar Marg, Visakhapatnam",
+    "phone": null,
+    "source": "Sulekha",
+    "created_at": "2025-07-02 18:12:19"
+  },
+  {
+    "business_name": "Scholar Academy",
+    "category": "Education & Coaching",
+    "city": "Agra",
+    "address": "838, Dayalbagh Complex, Agra",
+    "phone": "+91-8338567077",
+    "source": "IndiaMart",
+    "created_at": "2026-02-14 18:12:19"
+  },
+  {
+    "business_name": "Grace Healthcare",
+    "category": "Hospital",
+    "city": "Nagpur",
+    "address": "198, Dharampeth Marg, Nagpur",
+    "phone": null,
+    "source": "IndiaMart",
+    "created_at": "2025-05-20 18:12:19"
+  },
+  {
+    "business_name": "Power Electronics",
+    "category": "Electronics",
+    "city": "Mumbai",
+    "address": "716, Borivali Complex, Mumbai",
+    "phone": "+91-8153527431",
+    "source": "IndiaMart",
+    "created_at": "2026-04-14 18:12:19"
+  },
+  {
+    "business_name": "Choice Market",
+    "category": "Grocery",
+    "city": "Kanpur",
+    "address": "209, Kakadeo Lane, Kanpur",
+    "phone": "+91-8365597405",
+    "source": "Sulekha",
+    "created_at": "2026-02-20 18:12:19"
+  },
+  {
+    "business_name": "Metro Hospital",
+    "category": "Hospital",
+    "city": "Vadodara",
+    "address": "268, Manjalpur Bazaar, Vadodara",
+    "phone": "+91-8544801754",
+    "source": "Google Maps",
+    "created_at": "2025-12-17 18:12:19"
+  },
+  {
+    "business_name": "Heritage Jewellery",
+    "category": "Jewellery",
+    "city": "Ludhiana",
+    "address": "488, Dugri Plaza, Ludhiana",
+    "phone": "+91-8792662112",
+    "source": "Google Maps",
+    "created_at": "2025-06-01 18:12:19"
+  },
+  {
+    "business_name": "Select Mart",
+    "category": "Grocery",
+    "city": "Ludhiana",
+    "address": "312, Ferozepur Road Bazaar, Ludhiana",
+    "phone": "+91-9442353830",
+    "source": "Google Maps",
+    "created_at": "2025-07-02 18:12:19"
+  },
+  {
+    "business_name": "Elite Realty",
+    "category": "Real Estate",
+    "city": "Bangalore",
+    "address": "920, Whitefield Plaza, Bangalore",
+    "phone": "+91-8337235532",
+    "source": "TradeIndia",
+    "created_at": "2025-10-14 18:12:19"
+  },
+  {
+    "business_name": "Metro Healthcare",
+    "category": "Hospital",
+    "city": "Pune",
+    "address": "23, Wakad Road, Pune",
+    "phone": "+91-8170008295",
+    "source": "Google Maps",
+    "created_at": "2025-05-19 18:12:19"
+  },
+  {
+    "business_name": "Sunrise Care Centre",
+    "category": "Hospital",
+    "city": "Chennai",
+    "address": "879, T. Nagar Avenue, Chennai",
+    "phone": "+91-8722630835",
+    "source": "IndiaMart",
+    "created_at": "2025-07-21 18:12:19"
+  },
+  {
+    "business_name": "Family Grocery",
+    "category": "Grocery",
+    "city": "Kanpur",
+    "address": "136, Arya Nagar Road, Kanpur",
+    "phone": "+91-9956474767",
+    "source": "TradeIndia",
+    "created_at": "2026-02-19 18:12:19"
+  },
+  {
+    "business_name": "Advocate Legal Services",
+    "category": "Legal Services",
+    "city": "Bangalore",
+    "address": "938, JP Nagar Bazaar, Bangalore",
+    "phone": "+91-9804821667",
+    "source": "Sulekha",
+    "created_at": "2026-02-26 18:12:19"
+  },
+  {
+    "business_name": "Classic Clothing & Fashion",
+    "category": "Clothing & Fashion",
+    "city": "Chennai",
+    "address": "371, OMR Colony, Chennai",
+    "phone": "+91-7775217906",
+    "source": "TradeIndia",
+    "created_at": "2025-05-03 18:12:19"
+  },
+  {
+    "business_name": "Flex Gym & Fitness",
+    "category": "Gym & Fitness",
+    "city": "Agra",
+    "address": "907, Dayalbagh Lane, Agra",
+    "phone": "+91-8580435114",
+    "source": "Sulekha",
+    "created_at": "2026-01-17 18:12:19"
+  },
+  {
+    "business_name": "Event Event Management",
+    "category": "Event Management",
+    "city": "Kolkata",
+    "address": "179, Salt Lake Road, Kolkata",
+    "phone": "+91-8982723566",
+    "source": "Sulekha",
+    "created_at": "2025-08-13 18:12:19"
+  },
+  {
+    "business_name": "National Hospital",
+    "category": "Hospital",
+    "city": "Jaipur",
+    "address": "193, Jagatpura Bazaar, Jaipur",
+    "phone": "+91-9868059422",
+    "source": "IndiaMart",
+    "created_at": "2025-10-01 18:12:19"
+  },
+  {
+    "business_name": "Design Furnishings",
+    "category": "Home Decor",
+    "city": "Mumbai",
+    "address": "778, Borivali Plaza, Mumbai",
+    "phone": "+91-9696815746",
+    "source": "Sulekha",
+    "created_at": "2025-10-05 18:12:19"
+  },
+  {
+    "business_name": "Drive Garage",
+    "category": "Automobile",
+    "city": "Ludhiana",
+    "address": "661, Ferozepur Road Colony, Ludhiana",
+    "phone": "+91-9117181103",
+    "source": "IndiaMart",
+    "created_at": "2025-07-17 18:12:19"
+  },
+  {
+    "business_name": "Tech Systems",
+    "category": "IT Services",
+    "city": "Kanpur",
+    "address": "251, Kidwai Nagar Bazaar, Kanpur",
+    "phone": "+91-8579250344",
+    "source": "Google Maps",
+    "created_at": "2026-04-15 18:12:19"
+  },
+  {
+    "business_name": "Max Fitness Studio",
+    "category": "Gym & Fitness",
+    "city": "Patna",
+    "address": "205, Fraser Road Road, Patna",
+    "phone": "+91-8401211588",
+    "source": "Justdial",
+    "created_at": "2026-02-03 18:12:19"
+  },
+  {
+    "business_name": "Smart Hub",
+    "category": "Electronics",
+    "city": "Surat",
+    "address": "779, Vesu Street, Surat",
+    "phone": "+91-7925114601",
+    "source": "Sulekha",
+    "created_at": "2026-04-22 18:12:19"
+  },
+  {
+    "business_name": "Precious Jewellery",
+    "category": "Jewellery",
+    "city": "Kanpur",
+    "address": "333, Arya Nagar Chowk, Kanpur",
+    "phone": "+91-8532149740",
+    "source": "TradeIndia",
+    "created_at": "2025-11-13 18:12:19"
+  },
+  {
+    "business_name": "Heal Medicals",
+    "category": "Pharmacy",
+    "city": "Agra",
+    "address": "452, Dayalbagh Complex, Agra",
+    "phone": "+91-7826885280",
+    "source": "Justdial",
+    "created_at": "2026-04-25 18:12:19"
+  },
+  {
+    "business_name": "Trust Advisors",
+    "category": "Banking & Finance",
+    "city": "Hyderabad",
+    "address": "529, Madhapur Chowk, Hyderabad",
+    "phone": "+91-8901674585",
+    "source": "IndiaMart",
+    "created_at": "2026-01-24 18:12:19"
+  },
+  {
+    "business_name": "Strong Gym",
+    "category": "Gym & Fitness",
+    "city": "Nagpur",
+    "address": "124, Sadar Bazaar, Nagpur",
+    "phone": "+91-8394252527",
+    "source": "Justdial",
+    "created_at": "2025-10-24 18:12:19"
+  },
+  {
+    "business_name": "Alpha Workout Zone",
+    "category": "Gym & Fitness",
+    "city": "Visakhapatnam",
+    "address": "766, Dwaraka Nagar Complex, Visakhapatnam",
+    "phone": "+91-8539844194",
+    "source": "TradeIndia",
+    "created_at": "2025-07-02 18:12:19"
+  },
+  {
+    "business_name": "Empire Infrastructure",
+    "category": "Real Estate",
+    "city": "Pune",
+    "address": "914, Wakad Bazaar, Pune",
+    "phone": null,
+    "source": "Sulekha",
+    "created_at": "2025-10-01 18:12:19"
+  },
+  {
+    "business_name": "Explore Tours",
+    "category": "Travel & Tours",
+    "city": "Kolkata",
+    "address": "923, Howrah Chowk, Kolkata",
+    "phone": "+91-8334231700",
+    "source": "IndiaMart",
+    "created_at": "2025-12-09 18:12:19"
+  },
+  {
+    "business_name": "Grace Hospital",
+    "category": "Hospital",
+    "city": "Surat",
+    "address": "238, Althan Road, Surat",
+    "phone": "+91-8867948167",
+    "source": "Justdial",
+    "created_at": "2025-12-09 18:12:19"
+  },
+  {
+    "business_name": "Wander Travels",
+    "category": "Travel & Tours",
+    "city": "Delhi",
+    "address": "576, Janakpuri Avenue, Delhi",
+    "phone": "+91-8463789128",
+    "source": "Sulekha",
+    "created_at": "2025-12-18 18:12:19"
+  },
+  {
+    "business_name": "Journey Adventures",
+    "category": "Travel & Tours",
+    "city": "Chennai",
+    "address": "32, OMR Market, Chennai",
+    "phone": "+91-9923815581",
+    "source": "TradeIndia",
+    "created_at": "2025-08-03 18:12:19"
+  },
+  {
+    "business_name": "Trek Tours",
+    "category": "Travel & Tours",
+    "city": "Agra",
+    "address": "713, Belanganj Bazaar, Agra",
+    "phone": "+91-9138613550",
+    "source": "Sulekha",
+    "created_at": "2025-08-23 18:12:19"
+  },
+  {
+    "business_name": "Wander Vacations",
+    "category": "Travel & Tours",
+    "city": "Jaipur",
+    "address": "573, Vaishali Nagar Avenue, Jaipur",
+    "phone": "+91-8403976649",
+    "source": "Justdial",
+    "created_at": "2025-12-14 18:12:19"
+  },
+  {
+    "business_name": "Executive Guest House",
+    "category": "Hotel",
+    "city": "Visakhapatnam",
+    "address": "455, Gajuwaka Chowk, Visakhapatnam",
+    "phone": "+91-7007227129",
+    "source": "IndiaMart",
+    "created_at": "2026-04-08 18:12:19"
+  },
+  {
+    "business_name": "Family Bazaar",
+    "category": "Grocery",
+    "city": "Kanpur",
+    "address": "938, Kidwai Nagar Lane, Kanpur",
+    "phone": "+91-9683405306",
+    "source": "IndiaMart",
+    "created_at": "2026-02-18 18:12:19"
+  },
+  {
+    "business_name": "Star Hospital",
+    "category": "Hospital",
+    "city": "Lucknow",
+    "address": "632, Indira Nagar Market, Lucknow",
+    "phone": "+91-8620652027",
+    "source": "IndiaMart",
+    "created_at": "2026-04-01 18:12:19"
+  },
+  {
+    "business_name": "Premier Management",
+    "category": "Event Management",
+    "city": "Pune",
+    "address": "35, Viman Nagar Plaza, Pune",
+    "phone": "+91-9410895022",
+    "source": "Justdial",
+    "created_at": "2025-06-10 18:12:19"
+  },
+  {
+    "business_name": "Sure Medicals",
+    "category": "Pharmacy",
+    "city": "Ahmedabad",
+    "address": "52, Bopal Nagar, Ahmedabad",
+    "phone": null,
+    "source": "Justdial",
+    "created_at": "2025-06-14 18:12:19"
+  },
+  {
+    "business_name": "Precious Jewellery",
+    "category": "Jewellery",
+    "city": "Bangalore",
+    "address": "417, Yelahanka Marg, Bangalore",
+    "phone": "+91-8888193030",
+    "source": "Justdial",
+    "created_at": "2025-10-25 18:12:19"
+  },
+  {
+    "business_name": "Sparkle Jewellery",
+    "category": "Jewellery",
+    "city": "Vadodara",
+    "address": "794, Karelibaug Lane, Vadodara",
+    "phone": "+91-9276484639",
+    "source": "TradeIndia",
+    "created_at": "2026-02-18 18:12:19"
+  },
+  {
+    "business_name": "Auto Automobile",
+    "category": "Automobile",
+    "city": "Pune",
+    "address": "887, Kothrud Colony, Pune",
+    "phone": "+91-9279807743",
+    "source": "Sulekha",
+    "created_at": "2025-08-02 18:12:19"
+  },
+  {
+    "business_name": "Finance Banking & Finance",
+    "category": "Banking & Finance",
+    "city": "Lucknow",
+    "address": "102, Aliganj Chowk, Lucknow",
+    "phone": "+91-7806070239",
+    "source": "Sulekha",
+    "created_at": "2025-07-21 18:12:19"
+  },
+  {
+    "business_name": "Body Health Club",
+    "category": "Gym & Fitness",
+    "city": "Lucknow",
+    "address": "400, Alambagh Complex, Lucknow",
+    "phone": "+91-9290343596",
+    "source": "Justdial",
+    "created_at": "2025-09-21 18:12:19"
+  },
+  {
+    "business_name": "Nova Appliances",
+    "category": "Electronics",
+    "city": "Hyderabad",
+    "address": "849, Jubilee Hills Street, Hyderabad",
+    "phone": "+91-9114472541",
+    "source": "Justdial",
+    "created_at": "2025-09-15 18:12:19"
+  },
+  {
+    "business_name": "Charter Law Firm",
+    "category": "Legal Services",
+    "city": "Hyderabad",
+    "address": "198, Banjara Hills Marg, Hyderabad",
+    "phone": "+91-8884409442",
+    "source": "IndiaMart",
+    "created_at": "2026-03-07 18:12:19"
+  },
+  {
+    "business_name": "Dream Travel & Tours",
+    "category": "Travel & Tours",
+    "city": "Ahmedabad",
+    "address": "324, Bopal Complex, Ahmedabad",
+    "phone": "+91-9684913436",
+    "source": "TradeIndia",
+    "created_at": "2026-03-19 18:12:19"
+  },
+  {
+    "business_name": "Trust Consultants",
+    "category": "Banking & Finance",
+    "city": "Ludhiana",
+    "address": "609, Pakhowal Road Colony, Ludhiana",
+    "phone": "+91-9845990222",
+    "source": "Justdial",
+    "created_at": "2025-11-14 18:12:19"
+  },
+  {
+    "business_name": "Studio Salon",
+    "category": "Salon & Spa",
+    "city": "Chennai",
+    "address": "419, Chromepet Complex, Chennai",
+    "phone": "+91-7737458705",
+    "source": "IndiaMart",
+    "created_at": "2025-06-26 18:12:19"
+  },
+  {
+    "business_name": "Alpha Workout Zone",
+    "category": "Gym & Fitness",
+    "city": "Mumbai",
+    "address": "413, Thane Market, Mumbai",
+    "phone": "+91-8962929764",
+    "source": "IndiaMart",
+    "created_at": "2025-12-08 18:12:19"
+  },
+  {
+    "business_name": "Studio Hair Studio",
+    "category": "Salon & Spa",
+    "city": "Bhopal",
+    "address": "868, Kolar Road Complex, Bhopal",
+    "phone": "+91-7820420602",
+    "source": "TradeIndia",
+    "created_at": "2025-06-04 18:12:19"
+  },
+  {
+    "business_name": "Build Builders",
+    "category": "Construction",
+    "city": "Bangalore",
+    "address": "501, Marathahalli Complex, Bangalore",
+    "phone": null,
+    "source": "Justdial",
+    "created_at": "2026-04-09 18:12:19"
+  },
+  {
+    "business_name": "Royal Ornaments",
+    "category": "Jewellery",
+    "city": "Pune",
+    "address": "191, Viman Nagar Bazaar, Pune",
+    "phone": "+91-8525776803",
+    "source": "TradeIndia",
+    "created_at": "2026-03-12 18:12:19"
+  },
+  {
+    "business_name": "Digital Electronics",
+    "category": "Electronics",
+    "city": "Patna",
+    "address": "631, Boring Road Avenue, Patna",
+    "phone": "+91-8617533831",
+    "source": "Sulekha",
+    "created_at": "2025-09-04 18:12:19"
+  },
+  {
+    "business_name": "Heritage Jewellery",
+    "category": "Jewellery",
+    "city": "Surat",
+    "address": "820, Althan Avenue, Surat",
+    "phone": "+91-7894316494",
+    "source": "Sulekha",
+    "created_at": "2025-08-19 18:12:19"
+  },
+  {
+    "business_name": "Cozy Interiors",
+    "category": "Home Decor",
+    "city": "Lucknow",
+    "address": "107, Gomti Nagar Complex, Lucknow",
+    "phone": null,
+    "source": "Justdial",
+    "created_at": "2025-12-14 18:12:19"
+  },
+  {
+    "business_name": "Classic Jewellery",
+    "category": "Jewellery",
+    "city": "Lucknow",
+    "address": "371, Gomti Nagar Street, Lucknow",
+    "phone": null,
+    "source": "Google Maps",
+    "created_at": "2025-08-08 18:12:19"
+  },
+  {
+    "business_name": "Explore Travel & Tours",
+    "category": "Travel & Tours",
+    "city": "Kanpur",
+    "address": "957, Kidwai Nagar Nagar, Kanpur",
+    "phone": "+91-9696022736",
+    "source": "TradeIndia",
+    "created_at": "2025-10-22 18:12:19"
+  },
+  {
+    "business_name": "Care Chemist",
+    "category": "Pharmacy",
+    "city": "Kolkata",
+    "address": "165, Salt Lake Market, Kolkata",
+    "phone": "+91-9636577353",
+    "source": "Justdial",
+    "created_at": "2026-04-07 18:12:19"
+  },
+  {
+    "business_name": "Crown Housing",
+    "category": "Real Estate",
+    "city": "Jaipur",
+    "address": "574, C-Scheme Plaza, Jaipur",
+    "phone": "+91-8722932247",
+    "source": "Justdial",
+    "created_at": "2025-12-24 18:12:19"
+  },
+  {
+    "business_name": "Magic Celebrations",
+    "category": "Event Management",
+    "city": "Ludhiana",
+    "address": "361, Pakhowal Road Lane, Ludhiana",
+    "phone": "+91-7751457102",
+    "source": "Justdial",
+    "created_at": "2025-09-26 18:12:19"
+  },
+  {
+    "business_name": "Crown Suites",
+    "category": "Hotel",
+    "city": "Lucknow",
+    "address": "798, Rajajipuram Avenue, Lucknow",
+    "phone": "+91-8933253265",
+    "source": "Google Maps",
+    "created_at": "2025-12-21 18:12:19"
+  },
+  {
+    "business_name": "Modern Living",
+    "category": "Home Decor",
+    "city": "Ludhiana",
+    "address": "93, Ferozepur Road Plaza, Ludhiana",
+    "phone": null,
+    "source": "Google Maps",
+    "created_at": "2025-10-08 18:12:19"
+  },
+  {
+    "business_name": "Glam Salon & Spa",
+    "category": "Salon & Spa",
+    "city": "Mumbai",
+    "address": "988, Andheri Street, Mumbai",
+    "phone": "+91-8081744507",
+    "source": "TradeIndia",
+    "created_at": "2025-08-29 18:12:19"
+  },
+  {
+    "business_name": "Iron Health Club",
+    "category": "Gym & Fitness",
+    "city": "Patna",
+    "address": "972, Fraser Road Complex, Patna",
+    "phone": null,
+    "source": "Justdial",
+    "created_at": "2026-04-30 18:12:19"
+  },
+  {
+    "business_name": "Speed Workshop",
+    "category": "Automobile",
+    "city": "Kanpur",
+    "address": "760, Swaroop Nagar Lane, Kanpur",
+    "phone": "+91-9765355545",
+    "source": "Sulekha",
+    "created_at": "2026-01-16 18:12:19"
+  },
+  {
+    "business_name": "Well Pharmacy",
+    "category": "Pharmacy",
+    "city": "Delhi",
+    "address": "835, Janakpuri Road, Delhi",
+    "phone": "+91-8170150655",
+    "source": "TradeIndia",
+    "created_at": "2026-01-26 18:12:19"
+  },
+  {
+    "business_name": "Masala Corner",
+    "category": "Restaurant",
+    "city": "Indore",
+    "address": "861, Scheme 54 Chowk, Indore",
+    "phone": "+91-8162424064",
+    "source": "TradeIndia",
+    "created_at": "2026-04-23 18:12:19"
+  },
+  {
+    "business_name": "Pro Fitness Studio",
+    "category": "Gym & Fitness",
+    "city": "Visakhapatnam",
+    "address": "486, Gajuwaka Plaza, Visakhapatnam",
+    "phone": null,
+    "source": "IndiaMart",
+    "created_at": "2025-07-16 18:12:19"
+  },
+  {
+    "business_name": "Fund Financial Services",
+    "category": "Banking & Finance",
+    "city": "Vadodara",
+    "address": "500, Alkapuri Bazaar, Vadodara",
+    "phone": "+91-8159669906",
+    "source": "Justdial",
+    "created_at": "2025-11-07 18:12:19"
+  },
+  {
+    "business_name": "Info Consulting",
+    "category": "IT Services",
+    "city": "Jaipur",
+    "address": "511, Vaishali Nagar Avenue, Jaipur",
+    "phone": "+91-8580556895",
+    "source": "Justdial",
+    "created_at": "2026-04-29 18:12:19"
+  },
+  {
+    "business_name": "Sparkle Ornaments",
+    "category": "Jewellery",
+    "city": "Agra",
+    "address": "275, Dayalbagh Nagar, Agra",
+    "phone": "+91-8781535497",
+    "source": "IndiaMart",
+    "created_at": "2026-02-24 18:12:19"
+  },
+  {
+    "business_name": "Care Medical Centre",
+    "category": "Hospital",
+    "city": "Kolkata",
+    "address": "991, Park Street Nagar, Kolkata",
+    "phone": "+91-7021809368",
+    "source": "TradeIndia",
+    "created_at": "2025-11-04 18:12:19"
+  },
+  {
+    "business_name": "Grand Guest House",
+    "category": "Hotel",
+    "city": "Delhi",
+    "address": "765, Saket Complex, Delhi",
+    "phone": null,
+    "source": "TradeIndia",
+    "created_at": "2025-05-11 18:12:19"
+  },
+  {
+    "business_name": "Chic Store",
+    "category": "Clothing & Fashion",
+    "city": "Bangalore",
+    "address": "846, Yelahanka Plaza, Bangalore",
+    "phone": "+91-8021684328",
+    "source": "Google Maps",
+    "created_at": "2025-07-25 18:12:19"
+  },
+  {
+    "business_name": "Money Investments",
+    "category": "Banking & Finance",
+    "city": "Chennai",
+    "address": "393, Velachery Plaza, Chennai",
+    "phone": "+91-9249751898",
+    "source": "Justdial",
+    "created_at": "2025-11-23 18:12:19"
+  },
+  {
+    "business_name": "Travel Tours",
+    "category": "Travel & Tours",
+    "city": "Kolkata",
+    "address": "575, Gariahat Lane, Kolkata",
+    "phone": "+91-8557709797",
+    "source": "Google Maps",
+    "created_at": "2026-03-06 18:12:19"
+  },
+  {
+    "business_name": "Growth Banking & Finance",
+    "category": "Banking & Finance",
+    "city": "Delhi",
+    "address": "993, Lajpat Nagar Complex, Delhi",
+    "phone": "+91-7971953914",
+    "source": "Google Maps",
+    "created_at": "2026-03-19 18:12:19"
+  },
+  {
+    "business_name": "Justice Advocates",
+    "category": "Legal Services",
+    "city": "Agra",
+    "address": "358, Belanganj Market, Agra",
+    "phone": null,
+    "source": "TradeIndia",
+    "created_at": "2025-05-19 18:12:19"
+  },
+  {
+    "business_name": "Lexis Law Firm",
+    "category": "Legal Services",
+    "city": "Kolkata",
+    "address": "136, Salt Lake Plaza, Kolkata",
+    "phone": "+91-9427926297",
+    "source": "IndiaMart",
+    "created_at": "2026-02-04 18:12:19"
+  },
+  {
+    "business_name": "Vision Real Estate",
+    "category": "Real Estate",
+    "city": "Bangalore",
+    "address": "839, Marathahalli Nagar, Bangalore",
+    "phone": "+91-9746178979",
+    "source": "Google Maps",
+    "created_at": "2025-09-19 18:12:19"
+  },
+  {
+    "business_name": "Plan Construction",
+    "category": "Construction",
+    "city": "Lucknow",
+    "address": "906, Rajajipuram Complex, Lucknow",
+    "phone": null,
+    "source": "Google Maps",
+    "created_at": "2025-09-09 18:12:19"
+  },
+  {
+    "business_name": "Elite Realty",
+    "category": "Real Estate",
+    "city": "Delhi",
+    "address": "738, Lajpat Nagar Lane, Delhi",
+    "phone": "+91-9628561373",
+    "source": "IndiaMart",
+    "created_at": "2025-09-27 18:12:19"
+  },
+  {
+    "business_name": "Max Gym & Fitness",
+    "category": "Gym & Fitness",
+    "city": "Ahmedabad",
+    "address": "504, CG Road Market, Ahmedabad",
+    "phone": "+91-7723368529",
+    "source": "Justdial",
+    "created_at": "2025-06-25 18:12:19"
+  },
+  {
+    "business_name": "Cyber IT Services",
+    "category": "IT Services",
+    "city": "Bangalore",
+    "address": "545, Yelahanka Plaza, Bangalore",
+    "phone": null,
+    "source": "Justdial",
+    "created_at": "2025-12-28 18:12:19"
+  },
+  {
+    "business_name": "Empire Real Estate",
+    "category": "Real Estate",
+    "city": "Jaipur",
+    "address": "442, Malviya Nagar Complex, Jaipur",
+    "phone": "+91-9850287840",
+    "source": "Google Maps",
+    "created_at": "2025-08-29 18:12:19"
+  },
+  {
+    "business_name": "Royal Kitchen",
+    "category": "Restaurant",
+    "city": "Surat",
+    "address": "973, Vesu Chowk, Surat",
+    "phone": "+91-9055093582",
+    "source": "Justdial",
+    "created_at": "2025-11-04 18:12:19"
+  },
+  {
+    "business_name": "Charter Law Firm",
+    "category": "Legal Services",
+    "city": "Agra",
+    "address": "347, Kamla Nagar Chowk, Agra",
+    "phone": "+91-8344864918",
+    "source": "Sulekha",
+    "created_at": "2025-08-01 18:12:19"
+  },
+  {
+    "business_name": "Heal Pharmacy",
+    "category": "Pharmacy",
+    "city": "Chennai",
+    "address": "276, T. Nagar Avenue, Chennai",
+    "phone": "+91-8182084138",
+    "source": "Sulekha",
+    "created_at": "2025-12-18 18:12:19"
+  },
+  {
+    "business_name": "Mode Store",
+    "category": "Clothing & Fashion",
+    "city": "Surat",
+    "address": "603, Vesu Nagar, Surat",
+    "phone": "+91-9629863774",
+    "source": "IndiaMart",
+    "created_at": "2026-01-01 18:12:19"
+  },
+  {
+    "business_name": "Royal Restaurant",
+    "category": "Restaurant",
+    "city": "Delhi",
+    "address": "287, Janakpuri Avenue, Delhi",
+    "phone": "+91-9182232801",
+    "source": "Sulekha",
+    "created_at": "2026-04-04 18:12:19"
+  },
+  {
+    "business_name": "Heritage Diamonds",
+    "category": "Jewellery",
+    "city": "Delhi",
+    "address": "842, Dwarka Avenue, Delhi",
+    "phone": null,
+    "source": "Sulekha",
+    "created_at": "2025-06-07 18:12:19"
+  },
+  {
+    "business_name": "Style Design Studio",
+    "category": "Home Decor",
+    "city": "Agra",
+    "address": "802, Sikandra Lane, Agra",
+    "phone": "+91-8018655866",
+    "source": "Sulekha",
+    "created_at": "2026-02-07 18:12:19"
+  },
+  {
+    "business_name": "Digital Point",
+    "category": "Electronics",
+    "city": "Bhopal",
+    "address": "789, Shahpura Complex, Bhopal",
+    "phone": null,
+    "source": "Justdial",
+    "created_at": "2025-12-11 18:12:19"
+  },
+  {
+    "business_name": "Studio Spa",
+    "category": "Salon & Spa",
+    "city": "Ludhiana",
+    "address": "921, Model Town Bazaar, Ludhiana",
+    "phone": "+91-8892650443",
+    "source": "Google Maps",
+    "created_at": "2025-08-26 18:12:19"
+  },
+  {
+    "business_name": "Empire Real Estate",
+    "category": "Real Estate",
+    "city": "Pune",
+    "address": "596, Hinjewadi Nagar, Pune",
+    "phone": "+91-7083805614",
+    "source": "Sulekha",
+    "created_at": "2025-09-27 18:12:19"
+  },
+  {
+    "business_name": "Nature Bazaar",
+    "category": "Grocery",
+    "city": "Bhopal",
+    "address": "993, Bairagarh Nagar, Bhopal",
+    "phone": "+91-8196940293",
+    "source": "Google Maps",
+    "created_at": "2025-08-16 18:12:19"
+  },
+  {
+    "business_name": "Family Grocery",
+    "category": "Grocery",
+    "city": "Jaipur",
+    "address": "100, Vaishali Nagar Colony, Jaipur",
+    "phone": "+91-7078059646",
+    "source": "IndiaMart",
+    "created_at": "2025-08-03 18:12:19"
+  },
+  {
+    "business_name": "Cozy Furnishings",
+    "category": "Home Decor",
+    "city": "Kolkata",
+    "address": "245, Park Street Avenue, Kolkata",
+    "phone": null,
+    "source": "Sulekha",
+    "created_at": "2025-11-21 18:12:19"
+  },
+  {
+    "business_name": "Pioneer Institute",
+    "category": "Education & Coaching",
+    "city": "Vadodara",
+    "address": "392, Karelibaug Lane, Vadodara",
+    "phone": "+91-8145738486",
+    "source": "Justdial",
+    "created_at": "2026-04-07 18:12:19"
+  },
+  {
+    "business_name": "Trend Store",
+    "category": "Clothing & Fashion",
+    "city": "Mumbai",
+    "address": "718, Bandra Road, Mumbai",
+    "phone": "+91-8011827182",
+    "source": "Google Maps",
+    "created_at": "2025-05-07 18:12:19"
+  },
+  {
+    "business_name": "Pro Fitness Centre",
+    "category": "Gym & Fitness",
+    "city": "Ludhiana",
+    "address": "305, BRS Nagar Avenue, Ludhiana",
+    "phone": "+91-9503072567",
+    "source": "IndiaMart",
+    "created_at": "2025-06-11 18:12:19"
+  },
+  {
+    "business_name": "Royal Dhaba",
+    "category": "Restaurant",
+    "city": "Ahmedabad",
+    "address": "891, Bopal Bazaar, Ahmedabad",
+    "phone": "+91-9709024979",
+    "source": "Justdial",
+    "created_at": "2026-02-27 18:12:19"
+  },
+  {
+    "business_name": "Strong Gym",
+    "category": "Gym & Fitness",
+    "city": "Delhi",
+    "address": "65, Saket Market, Delhi",
+    "phone": "+91-8936716189",
+    "source": "Google Maps",
+    "created_at": "2026-02-19 18:12:19"
+  },
+  {
+    "business_name": "Prime Bazaar",
+    "category": "Grocery",
+    "city": "Lucknow",
+    "address": "628, Aliganj Lane, Lucknow",
+    "phone": "+91-8770424019",
+    "source": "Sulekha",
+    "created_at": "2026-03-25 18:12:19"
+  },
+  {
+    "business_name": "Counsel Law Firm",
+    "category": "Legal Services",
+    "city": "Patna",
+    "address": "739, Kankarbagh Bazaar, Patna",
+    "phone": "+91-8343856032",
+    "source": "IndiaMart",
+    "created_at": "2025-05-06 18:12:19"
+  },
+  {
+    "business_name": "Gear Automobile",
+    "category": "Automobile",
+    "city": "Bhopal",
+    "address": "240, Kolar Road Road, Bhopal",
+    "phone": "+91-8996544058",
+    "source": "Google Maps",
+    "created_at": "2026-02-16 18:12:19"
+  },
+  {
+    "business_name": "Pixel Hub",
+    "category": "Electronics",
+    "city": "Indore",
+    "address": "769, Sapna Sangeeta Marg, Indore",
+    "phone": "+91-8215883753",
+    "source": "IndiaMart",
+    "created_at": "2026-03-05 18:12:19"
+  },
+  {
+    "business_name": "Future Education & Coaching",
+    "category": "Education & Coaching",
+    "city": "Hyderabad",
+    "address": "494, Hitech City Bazaar, Hyderabad",
+    "phone": "+91-9597157466",
+    "source": "TradeIndia",
+    "created_at": "2025-12-09 18:12:19"
+  },
+  {
+    "business_name": "Design Contractors",
+    "category": "Construction",
+    "city": "Nagpur",
+    "address": "244, Manish Nagar Marg, Nagpur",
+    "phone": "+91-8406929596",
+    "source": "Sulekha",
+    "created_at": "2025-05-09 18:12:19"
+  },
+  {
+    "business_name": "Horizon Housing",
+    "category": "Real Estate",
+    "city": "Jaipur",
+    "address": "140, Malviya Nagar Street, Jaipur",
+    "phone": "+91-7852852895",
+    "source": "TradeIndia",
+    "created_at": "2025-05-09 18:12:19"
+  },
+  {
+    "business_name": "Digital Store",
+    "category": "Electronics",
+    "city": "Bhopal",
+    "address": "789, Kolar Road Road, Bhopal",
+    "phone": "+91-8539427632",
+    "source": "IndiaMart",
+    "created_at": "2026-02-28 18:12:19"
+  },
+  {
+    "business_name": "Charter Legal Services",
+    "category": "Legal Services",
+    "city": "Agra",
+    "address": "862, Kamla Nagar Street, Agra",
+    "phone": "+91-9054876501",
+    "source": "Justdial",
+    "created_at": "2025-12-17 18:12:19"
+  },
+  {
+    "business_name": "Speed Auto Works",
+    "category": "Automobile",
+    "city": "Agra",
+    "address": "130, Dayalbagh Avenue, Agra",
+    "phone": "+91-8906806885",
+    "source": "Justdial",
+    "created_at": "2025-12-27 18:12:19"
+  },
+  {
+    "business_name": "Life Pharmacy",
+    "category": "Pharmacy",
+    "city": "Vadodara",
+    "address": "705, Gotri Road, Vadodara",
+    "phone": "+91-9018086944",
+    "source": "Justdial",
+    "created_at": "2025-12-06 18:12:19"
+  },
+  {
+    "business_name": "Torque Automobile",
+    "category": "Automobile",
+    "city": "Patna",
+    "address": "785, Boring Road Plaza, Patna",
+    "phone": null,
+    "source": "Sulekha",
+    "created_at": "2026-03-03 18:12:19"
+  },
+  {
+    "business_name": "Advocate Legal Services",
+    "category": "Legal Services",
+    "city": "Patna",
+    "address": "661, Boring Road Colony, Patna",
+    "phone": "+91-9855277188",
+    "source": "IndiaMart",
+    "created_at": "2025-05-11 18:12:19"
+  },
+  {
+    "business_name": "Bright Tutorials",
+    "category": "Education & Coaching",
+    "city": "Bhopal",
+    "address": "551, Bairagarh Plaza, Bhopal",
+    "phone": "+91-9681996827",
+    "source": "Google Maps",
+    "created_at": "2026-02-08 18:12:19"
+  },
+  {
+    "business_name": "Crown Guest House",
+    "category": "Hotel",
+    "city": "Kanpur",
+    "address": "413, Kakadeo Road, Kanpur",
+    "phone": "+91-8445171449",
+    "source": "IndiaMart",
+    "created_at": "2025-11-29 18:12:19"
+  },
+  {
+    "business_name": "Mentor Education & Coaching",
+    "category": "Education & Coaching",
+    "city": "Nagpur",
+    "address": "392, Sadar Avenue, Nagpur",
+    "phone": "+91-7857789941",
+    "source": "Sulekha",
+    "created_at": "2026-01-22 18:12:19"
+  },
+  {
+    "business_name": "Elite Event Management",
+    "category": "Event Management",
+    "city": "Chennai",
+    "address": "380, Velachery Street, Chennai",
+    "phone": "+91-8079442635",
+    "source": "TradeIndia",
+    "created_at": "2025-11-23 18:12:19"
+  },
+  {
+    "business_name": "Code Solutions",
+    "category": "IT Services",
+    "city": "Pune",
+    "address": "160, Viman Nagar Chowk, Pune",
+    "phone": "+91-8588074619",
+    "source": "TradeIndia",
+    "created_at": "2025-11-04 18:12:19"
+  },
+  {
+    "business_name": "Style Furnishings",
+    "category": "Home Decor",
+    "city": "Agra",
+    "address": "37, Sikandra Market, Agra",
+    "phone": null,
+    "source": "TradeIndia",
+    "created_at": "2025-09-24 18:12:19"
+  },
+  {
+    "business_name": "Zen Salon & Spa",
+    "category": "Salon & Spa",
+    "city": "Delhi",
+    "address": "231, Lajpat Nagar Lane, Delhi",
+    "phone": "+91-9917306149",
+    "source": "TradeIndia",
+    "created_at": "2026-04-06 18:12:19"
+  },
+  {
+    "business_name": "Life Medicals",
+    "category": "Pharmacy",
+    "city": "Indore",
+    "address": "268, Vijay Nagar Chowk, Indore",
+    "phone": "+91-7891862490",
+    "source": "TradeIndia",
+    "created_at": "2025-12-01 18:12:19"
+  },
+  {
+    "business_name": "Mode Clothing & Fashion",
+    "category": "Clothing & Fashion",
+    "city": "Agra",
+    "address": "727, Civil Lines Marg, Agra",
+    "phone": "+91-8752114488",
+    "source": "Sulekha",
+    "created_at": "2026-01-28 18:12:19"
+  },
+  {
+    "business_name": "Drive Workshop",
+    "category": "Automobile",
+    "city": "Surat",
+    "address": "635, Adajan Colony, Surat",
+    "phone": "+91-8986282217",
+    "source": "Sulekha",
+    "created_at": "2026-01-12 18:12:19"
+  },
+  {
+    "business_name": "Royal Kitchen",
+    "category": "Restaurant",
+    "city": "Visakhapatnam",
+    "address": "195, Gajuwaka Street, Visakhapatnam",
+    "phone": "+91-7708618110",
+    "source": "IndiaMart",
+    "created_at": "2025-07-21 18:12:19"
+  },
+  {
+    "business_name": "Asset Finance",
+    "category": "Banking & Finance",
+    "city": "Pune",
+    "address": "131, Viman Nagar Bazaar, Pune",
+    "phone": "+91-8992768843",
+    "source": "TradeIndia",
+    "created_at": "2026-04-26 18:12:19"
+  },
+  {
+    "business_name": "Torque Auto Works",
+    "category": "Automobile",
+    "city": "Pune",
+    "address": "716, Koregaon Park Lane, Pune",
+    "phone": "+91-9086361004",
+    "source": "Google Maps",
+    "created_at": "2025-08-04 18:12:19"
+  },
+  {
+    "business_name": "Auto Service Centre",
+    "category": "Automobile",
+    "city": "Lucknow",
+    "address": "634, Rajajipuram Plaza, Lucknow",
+    "phone": "+91-7985750051",
+    "source": "Justdial",
+    "created_at": "2026-01-09 18:12:19"
+  },
+  {
+    "business_name": "Grace Hospital",
+    "category": "Hospital",
+    "city": "Pune",
+    "address": "869, Hinjewadi Lane, Pune",
+    "phone": null,
+    "source": "Google Maps",
+    "created_at": "2025-12-29 18:12:19"
+  },
+  {
+    "business_name": "Money Banking & Finance",
+    "category": "Banking & Finance",
+    "city": "Bhopal",
+    "address": "56, MP Nagar Colony, Bhopal",
+    "phone": "+91-9033755951",
+    "source": "Justdial",
+    "created_at": "2025-10-28 18:12:19"
+  },
+  {
+    "business_name": "Star Events",
+    "category": "Event Management",
+    "city": "Kolkata",
+    "address": "542, Ballygunge Bazaar, Kolkata",
+    "phone": "+91-7015610510",
+    "source": "Google Maps",
+    "created_at": "2026-02-28 18:12:19"
+  },
+  {
+    "business_name": "Trust Advisors",
+    "category": "Banking & Finance",
+    "city": "Nagpur",
+    "address": "476, Sadar Market, Nagpur",
+    "phone": "+91-8127034421",
+    "source": "Sulekha",
+    "created_at": "2025-10-18 18:12:19"
+  },
+  {
+    "business_name": "Gear Garage",
+    "category": "Automobile",
+    "city": "Mumbai",
+    "address": "299, Kurla Avenue, Mumbai",
+    "phone": "+91-9581524073",
+    "source": "Justdial",
+    "created_at": "2026-03-08 18:12:19"
+  },
+  {
+    "business_name": "Century Builders",
+    "category": "Real Estate",
+    "city": "Ahmedabad",
+    "address": "202, Bopal Lane, Ahmedabad",
+    "phone": "+91-7034692756",
+    "source": "TradeIndia",
+    "created_at": "2025-05-28 18:12:19"
+  },
+  {
+    "business_name": "Century Builders",
+    "category": "Real Estate",
+    "city": "Chennai",
+    "address": "365, Adyar Street, Chennai",
+    "phone": null,
+    "source": "IndiaMart",
+    "created_at": "2025-12-31 18:12:19"
+  },
+  {
+    "business_name": "Stay Hotel",
+    "category": "Hotel",
+    "city": "Bangalore",
+    "address": "858, Marathahalli Avenue, Bangalore",
+    "phone": "+91-9032813601",
+    "source": "Google Maps",
+    "created_at": "2025-09-01 18:12:19"
+  },
+  {
+    "business_name": "Living Interiors",
+    "category": "Home Decor",
+    "city": "Patna",
+    "address": "318, Fraser Road Lane, Patna",
+    "phone": "+91-9012989757",
+    "source": "IndiaMart",
+    "created_at": "2025-05-31 18:12:19"
+  },
+  {
+    "business_name": "Star Healthcare",
+    "category": "Hospital",
+    "city": "Bangalore",
+    "address": "98, JP Nagar Nagar, Bangalore",
+    "phone": "+91-8923608364",
+    "source": "TradeIndia",
+    "created_at": "2026-02-13 18:12:19"
+  },
+  {
+    "business_name": "Festive Planners",
+    "category": "Event Management",
+    "city": "Delhi",
+    "address": "450, Lajpat Nagar Complex, Delhi",
+    "phone": "+91-8823606251",
+    "source": "TradeIndia",
+    "created_at": "2025-10-23 18:12:19"
+  },
+  {
+    "business_name": "Infra Engineers",
+    "category": "Construction",
+    "city": "Mumbai",
+    "address": "113, Juhu Colony, Mumbai",
+    "phone": "+91-9777159106",
+    "source": "TradeIndia",
+    "created_at": "2025-11-12 18:12:19"
+  },
+  {
+    "business_name": "Royal Jewellery",
+    "category": "Jewellery",
+    "city": "Delhi",
+    "address": "316, Nehru Place Nagar, Delhi",
+    "phone": "+91-8191503479",
+    "source": "TradeIndia",
+    "created_at": "2026-01-28 18:12:19"
+  },
+  {
+    "business_name": "Crown Housing",
+    "category": "Real Estate",
+    "city": "Bangalore",
+    "address": "851, Marathahalli Road, Bangalore",
+    "phone": null,
+    "source": "Google Maps",
+    "created_at": "2025-05-08 18:12:19"
+  },
+  {
+    "business_name": "Torque Automobile",
+    "category": "Automobile",
+    "city": "Delhi",
+    "address": "672, Janakpuri Lane, Delhi",
+    "phone": "+91-9800905806",
+    "source": "Google Maps",
+    "created_at": "2026-04-18 18:12:19"
+  },
+  {
+    "business_name": "Profit Solutions",
+    "category": "Banking & Finance",
+    "city": "Ludhiana",
+    "address": "549, Dugri Lane, Ludhiana",
+    "phone": null,
+    "source": "Google Maps",
+    "created_at": "2026-01-17 18:12:19"
+  },
+  {
+    "business_name": "Luxe Beauty Studio",
+    "category": "Salon & Spa",
+    "city": "Ludhiana",
+    "address": "170, Model Town Colony, Ludhiana",
+    "phone": "+91-9216883025",
+    "source": "IndiaMart",
+    "created_at": "2025-07-13 18:12:19"
+  },
+  {
+    "business_name": "Med Medical Store",
+    "category": "Pharmacy",
+    "city": "Delhi",
+    "address": "639, Janakpuri Road, Delhi",
+    "phone": "+91-8896388320",
+    "source": "Justdial",
+    "created_at": "2025-07-25 18:12:19"
+  },
+  {
+    "business_name": "Landmark Developers",
+    "category": "Real Estate",
+    "city": "Mumbai",
+    "address": "634, Bandra Chowk, Mumbai",
+    "phone": "+91-9366194405",
+    "source": "TradeIndia",
+    "created_at": "2025-05-24 18:12:19"
+  },
+  {
+    "business_name": "Living Living",
+    "category": "Home Decor",
+    "city": "Ludhiana",
+    "address": "98, Dugri Market, Ludhiana",
+    "phone": "+91-7089105635",
+    "source": "IndiaMart",
+    "created_at": "2025-11-19 18:12:19"
+  },
+  {
+    "business_name": "Park Hotel",
+    "category": "Hotel",
+    "city": "Bhopal",
+    "address": "283, Shahpura Complex, Bhopal",
+    "phone": "+91-8691546510",
+    "source": "Justdial",
+    "created_at": "2026-01-17 18:12:19"
+  },
+  {
+    "business_name": "City Nursing Home",
+    "category": "Hospital",
+    "city": "Patna",
+    "address": "201, Kankarbagh Road, Patna",
+    "phone": "+91-8830336123",
+    "source": "Google Maps",
+    "created_at": "2026-02-27 18:12:19"
+  },
+  {
+    "business_name": "Heal Health Store",
+    "category": "Pharmacy",
+    "city": "Patna",
+    "address": "726, Kankarbagh Bazaar, Patna",
+    "phone": "+91-7069638000",
+    "source": "Sulekha",
+    "created_at": "2026-01-14 18:12:19"
+  },
+  {
+    "business_name": "Journey Adventures",
+    "category": "Travel & Tours",
+    "city": "Ludhiana",
+    "address": "751, Model Town Bazaar, Ludhiana",
+    "phone": "+91-8417659121",
+    "source": "Google Maps",
+    "created_at": "2025-09-16 18:12:19"
+  },
+  {
+    "business_name": "Glitter Jewellery",
+    "category": "Jewellery",
+    "city": "Visakhapatnam",
+    "address": "607, MVP Colony Chowk, Visakhapatnam",
+    "phone": "+91-8487633522",
+    "source": "IndiaMart",
+    "created_at": "2025-06-14 18:12:19"
+  },
+  {
+    "business_name": "Power Fitness Studio",
+    "category": "Gym & Fitness",
+    "city": "Bangalore",
+    "address": "644, Indiranagar Bazaar, Bangalore",
+    "phone": "+91-9245512848",
+    "source": "Justdial",
+    "created_at": "2025-12-11 18:12:19"
+  },
+  {
+    "business_name": "Swift Automobile",
+    "category": "Automobile",
+    "city": "Surat",
+    "address": "708, Katargam Colony, Surat",
+    "phone": "+91-9462625704",
+    "source": "TradeIndia",
+    "created_at": "2025-12-07 18:12:19"
+  },
+  {
+    "business_name": "Premier Events",
+    "category": "Event Management",
+    "city": "Hyderabad",
+    "address": "370, Gachibowli Street, Hyderabad",
+    "phone": "+91-8362727019",
+    "source": "Google Maps",
+    "created_at": "2025-09-25 18:12:19"
+  },
+  {
+    "business_name": "Wealth Banking & Finance",
+    "category": "Banking & Finance",
+    "city": "Nagpur",
+    "address": "950, Manish Nagar Road, Nagpur",
+    "phone": "+91-8190524370",
+    "source": "Sulekha",
+    "created_at": "2025-10-09 18:12:19"
+  },
+  {
+    "business_name": "Digital Electronics",
+    "category": "Electronics",
+    "city": "Surat",
+    "address": "571, Katargam Street, Surat",
+    "phone": "+91-7832339510",
+    "source": "Sulekha",
+    "created_at": "2026-04-06 18:12:19"
+  },
+  {
+    "business_name": "Studio Hair Studio",
+    "category": "Salon & Spa",
+    "city": "Bangalore",
+    "address": "378, JP Nagar Bazaar, Bangalore",
+    "phone": "+91-8828956698",
+    "source": "IndiaMart",
+    "created_at": "2026-04-11 18:12:19"
+  },
+  {
+    "business_name": "Growth Consultants",
+    "category": "Banking & Finance",
+    "city": "Lucknow",
+    "address": "395, Gomti Nagar Bazaar, Lucknow",
+    "phone": "+91-9290765222",
+    "source": "Google Maps",
+    "created_at": "2025-10-17 18:12:19"
+  },
+  {
+    "business_name": "Info IT Services",
+    "category": "IT Services",
+    "city": "Hyderabad",
+    "address": "902, Gachibowli Road, Hyderabad",
+    "phone": "+91-9882888067",
+    "source": "TradeIndia",
+    "created_at": "2026-04-25 18:12:19"
+  },
+  {
+    "business_name": "Paradise Kitchen",
+    "category": "Restaurant",
+    "city": "Patna",
+    "address": "541, Boring Road Nagar, Patna",
+    "phone": "+91-7013477164",
+    "source": "IndiaMart",
+    "created_at": "2025-05-21 18:12:19"
+  },
+  {
+    "business_name": "Select Grocery",
+    "category": "Grocery",
+    "city": "Ludhiana",
+    "address": "188, Model Town Lane, Ludhiana",
+    "phone": "+91-7756685772",
+    "source": "Sulekha",
+    "created_at": "2025-09-02 18:12:19"
+  },
+  {
+    "business_name": "Scholar Education & Coaching",
+    "category": "Education & Coaching",
+    "city": "Agra",
+    "address": "443, Belanganj Complex, Agra",
+    "phone": "+91-8300922441",
+    "source": "Sulekha",
+    "created_at": "2025-06-03 18:12:19"
+  },
+  {
+    "business_name": "Create Construction",
+    "category": "Construction",
+    "city": "Jaipur",
+    "address": "445, Jagatpura Street, Jaipur",
+    "phone": "+91-7845159554",
+    "source": "IndiaMart",
+    "created_at": "2026-04-07 18:12:19"
+  },
+  {
+    "business_name": "Living Home Decor",
+    "category": "Home Decor",
+    "city": "Pune",
+    "address": "675, Hadapsar Complex, Pune",
+    "phone": "+91-8715490479",
+    "source": "Google Maps",
+    "created_at": "2025-07-20 18:12:19"
+  },
+  {
+    "business_name": "City Lodge",
+    "category": "Hotel",
+    "city": "Kanpur",
+    "address": "399, Kakadeo Plaza, Kanpur",
+    "phone": "+91-8250409823",
+    "source": "IndiaMart",
+    "created_at": "2025-06-14 18:12:19"
+  },
+  {
+    "business_name": "Century Developers",
+    "category": "Real Estate",
+    "city": "Hyderabad",
+    "address": "538, Madhapur Lane, Hyderabad",
+    "phone": "+91-8444629069",
+    "source": "TradeIndia",
+    "created_at": "2026-01-13 18:12:19"
+  },
+  {
+    "business_name": "Trend Fashion House",
+    "category": "Clothing & Fashion",
+    "city": "Lucknow",
+    "address": "638, Hazratganj Bazaar, Lucknow",
+    "phone": "+91-7789667935",
+    "source": "Google Maps",
+    "created_at": "2026-04-17 18:12:19"
+  },
+  {
+    "business_name": "Event Planners",
+    "category": "Event Management",
+    "city": "Kanpur",
+    "address": "331, Kidwai Nagar Lane, Kanpur",
+    "phone": "+91-8640448090",
+    "source": "TradeIndia",
+    "created_at": "2026-04-01 18:12:19"
+  },
+  {
+    "business_name": "Prime Mart",
+    "category": "Grocery",
+    "city": "Kanpur",
+    "address": "690, Kakadeo Avenue, Kanpur",
+    "phone": "+91-8059392310",
+    "source": "Sulekha",
+    "created_at": "2025-07-04 18:12:19"
+  },
+  {
+    "business_name": "Shine Gems",
+    "category": "Jewellery",
+    "city": "Kanpur",
+    "address": "99, Kakadeo Bazaar, Kanpur",
+    "phone": "+91-9458546606",
+    "source": "Google Maps",
+    "created_at": "2026-03-14 18:12:19"
+  },
+  {
+    "business_name": "Shield Legal Services",
+    "category": "Legal Services",
+    "city": "Kanpur",
+    "address": "722, Arya Nagar Chowk, Kanpur",
+    "phone": "+91-9527946073",
+    "source": "TradeIndia",
+    "created_at": "2026-04-14 18:12:19"
+  },
+  {
+    "business_name": "Zen Beauty Parlour",
+    "category": "Salon & Spa",
+    "city": "Indore",
+    "address": "130, Vijay Nagar Road, Indore",
+    "phone": "+91-9017859741",
+    "source": "Justdial",
+    "created_at": "2025-09-28 18:12:19"
+  },
+  {
+    "business_name": "Soft Solutions",
+    "category": "IT Services",
+    "city": "Pune",
+    "address": "16, Hadapsar Plaza, Pune",
+    "phone": null,
+    "source": "Google Maps",
+    "created_at": "2025-07-13 18:12:19"
+  },
+  {
+    "business_name": "Life Hospital",
+    "category": "Hospital",
+    "city": "Bangalore",
+    "address": "673, Whitefield Avenue, Bangalore",
+    "phone": "+91-9768334489",
+    "source": "TradeIndia",
+    "created_at": "2025-08-27 18:12:19"
+  },
+  {
+    "business_name": "Strong Gym & Fitness",
+    "category": "Gym & Fitness",
+    "city": "Surat",
+    "address": "617, Ring Road Lane, Surat",
+    "phone": "+91-8918923535",
+    "source": "Justdial",
+    "created_at": "2025-07-31 18:12:19"
+  },
+  {
+    "business_name": "Elite Real Estate",
+    "category": "Real Estate",
+    "city": "Ludhiana",
+    "address": "413, Dugri Avenue, Ludhiana",
+    "phone": "+91-9651608871",
+    "source": "Sulekha",
+    "created_at": "2025-06-08 18:12:19"
+  },
+  {
+    "business_name": "Swift Service Centre",
+    "category": "Automobile",
+    "city": "Chennai",
+    "address": "164, Velachery Plaza, Chennai",
+    "phone": "+91-7734769715",
+    "source": "Justdial",
+    "created_at": "2025-07-17 18:12:19"
+  }
+]
