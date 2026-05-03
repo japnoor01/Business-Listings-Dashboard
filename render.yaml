@@ -1,0 +1,21 @@
+services:
+  - type: web_service
+    name: business-listings-backend
+    env: python
+    plan: free
+    region: oregon
+    root: business-dashboard/backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+
+  - type: static_site
+    name: business-listings-frontend
+    env: node
+    plan: free
+    region: oregon
+    root: business-dashboard/frontend
+    buildCommand: npm install && npm run build
+    publishPath: dist
+    envVars:
+      - key: VITE_API_BASE
+        value: "https://<your-backend-service>.onrender.com"
